@@ -1,0 +1,549 @@
+{
+    "rasa_nlu_data": {
+        "entity_synonyms": [
+
+        ],
+        "common_examples": [
+            {
+                "text": "we'll be destroyed for sure",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "this is madness",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "we're doomed",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "she'll be alright",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "you'll be deactivated for sure",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i'm going to regret this",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "the damage doesn't look as bad from out here",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "forget it",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "you'll get your chance to get off this rock",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "will this never end",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "shut up",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "now come on get to it",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "what're you trying to push on us",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i'm quite sure you'll be very pleased with that one, sir",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "he really is in first-class condition",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "why i should stick my neck out for you is quite beyond my capacity",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "it just isn't fair",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i find your lack of faith disturbing",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "this bickering is pointless",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "it's too dangerous",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "we don't serve their kind here",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i heartily agree with you sir",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "he doesn't like you",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i don't like you either",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "you'll be dead",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i don't like the look of this",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i'm not such a bad pilot myself",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "you guys got yourself a ship",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "i have a very bad feeling about this",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "there's gotta be something you can do",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "there's nothin' i can do about it, kid",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "they're not going to get me without a fight",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "you can't win",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "there are alternatives to fighting",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "damn fool",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "bring them on",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "i don't think you boys can help",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "oh no",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "don't get any funny ideas",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "they're going to kill her!",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "we're all right",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "you did great",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "we had feared the worst",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "you're safe",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "that's impossible",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "it's not impossible",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "watch yourself",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i can't shake him",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "good shooting",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "i'll take them myself",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "yes sir",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "i can't maneuver",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "we're too close",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "loosen up",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i can't hold them",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "it's a hit",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "negative",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "it didn't go in",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "it just impacted the surface",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "you're all clear kid",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "now let's blow this thing up and go home",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "great shot kid",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "remember the force will be with you always",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "i knew you'd come back",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "he'll be all right",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "don't lose your temper",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i'm sorry to hear that",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i'm a dead man",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "you're a good fighter",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "i hate to lose you",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i guess this is it",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i don't know where you get your delusions laser brain",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "take it easy",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "it isn't friendly",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "turn it off",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "take care sir",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "take care of yourself",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "be careful",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "you have failed me for the last time",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "good luck",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "i'm not set",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "go now",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "it might be our only chance of stopping them",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "hand on",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "you'll have to make this shot",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "fall back",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "hurry up goldenrod or you're going to be a permanent resident",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "the bucket of bolts is never going to get us past that blockade",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "this baby's got a few surprises left in her",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "let's hope we don't have a burnout",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "someday you're going to be wrong and i hope i'm there to see it",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "good luck",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "don't worry",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "shut him up or shut him down",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "the possibility of successfully navigating an asteroid field is approximately three thousand seven hundred and twenty to one",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "never tell me the odds",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "that'll do nicely",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "i'm not going to change my mind about this",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "i'm sure it's perfectly safe for droids",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "you be more careful",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "would you please stop calling me that",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "of you make it so difficult sometimes",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "you could be a little nicer",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "sometimes you think i'm alright",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "i like the sound of that",
+                "intent": "positive",
+                "entities": []
+            },
+            {
+                "text": "stop that",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "he could destroy us",
+                "intent": "negative",
+                "entities": []
+            },
+            {
+                "text": "he would become a powerful ally",
+                "intent": "positive",
+                "entities": []
+            }
+        ]
+    }
+}
