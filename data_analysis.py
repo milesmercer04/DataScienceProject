@@ -92,3 +92,28 @@ print("Predicted Avg Sentiment = ", polyModel.intercept_[0], "+",
       polyModel.coef_[0][0], "* (Line #) +", polyModel.coef_[0][1], "* (Line #)^2")
 
 # %%
+characterAverages = full_script.groupby('character')['sentiment'].mean()
+characterAverages.sort_values(ascending=False, inplace=True)
+print(characterAverages)
+# %%
+numLines = {}
+characters = [*set(full_script['character'].values.tolist())]
+for character in characters:
+    numLines[character] = full_script['character'].value_counts()[character]
+
+irrelevantCharacters = []
+for character in numLines:
+    if (numLines[character] < 20):
+        irrelevantCharacters.append(character)
+
+relevantCharacterAverages = characterAverages.drop(labels = irrelevantCharacters)
+print(relevantCharacterAverages)
+
+# %%
+relevantCharacterAverages.plot(kind='bar')
+plt.xlabel('Character', fontsize=12)
+plt.ylabel('Avg Adjusted Sentiment Value', fontsize=12)
+plt.title('Characters w/ 20+ Lines')
+plt.show()
+
+# %%
