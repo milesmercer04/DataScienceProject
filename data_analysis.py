@@ -44,8 +44,9 @@ plt.title('Episode IV', loc='center')
 plt.show()
 
 # %%
-print("Predicted Avg Sentiment = ", polyModel.intercept_[0], "+",
-      polyModel.coef_[0][0], "* (Line #) +", polyModel.coef_[0][1], "* (Line #)^2")
+print("Predicted Avg Sentiment =", polyModel.intercept_[0], "+",
+      polyModel.coef_[0][0], "* (Line #) +", polyModel.coef_[0][1], "* (Line #)^2 +",
+      polyModel.coef_[0][2], "* (Line #)^3")
 
 # %%
 X2 = ep2[['line']].values.reshape(-1, 1)
@@ -66,7 +67,7 @@ plt.title('Episode V', loc='center')
 plt.show()
 
 # %%
-print("Predicted Avg Sentiment = ", polyModel.intercept_[0], "+",
+print("Predicted Avg Sentiment =", polyModel.intercept_[0], "+",
       polyModel.coef_[0][0], "* (Line #) +", polyModel.coef_[0][1], "* (Line #)^2")
 
 # %%
@@ -88,8 +89,9 @@ plt.title('Episode VI', loc='center')
 plt.show()
 
 # %%
-print("Predicted Avg Sentiment = ", polyModel.intercept_[0], "+",
-      polyModel.coef_[0][0], "* (Line #) +", polyModel.coef_[0][1], "* (Line #)^2")
+print("Predicted Avg Sentiment =", polyModel.intercept_[0], "+",
+      polyModel.coef_[0][0], "* (Line #) +", polyModel.coef_[0][1], "* (Line #)^2 +",
+      polyModel.coef_[0][2], "* (Line #)^3")
 
 # %%
 characterAverages = full_script.groupby('character')['sentiment'].mean()
