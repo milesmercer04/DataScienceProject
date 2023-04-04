@@ -1,675 +1,675 @@
-line,character,dialogue,sentiment
-1,SHUTTLE CAPTAIN,"Command station, this is ST 321. Code Clearance Blue. We're starting our approach. Deactivate the security shield.",0
-2,DEATH STAR CONTROLLER,The security deflector shield will be deactivated when we have confirmation of your code transmission. Stand by... You are clear to proceed.,0
-3,SHUTTLE CAPTAIN,We're starting our approach.,1
-4,OFFICER,Inform the commander that Lord Vader's shuttle has arrived.,1
-5,OPERATOR,"Yes, sir.",1
-6,JERJERROD,"Lord Vader, this is an unexpected pleasure.  We're honored by your presence.",1
-7,VADER,"You may dispense with the pleasantries, Commander. I'm here to put you back on schedule.",1
-8,JERJERROD,"I assure you, Lord Vader, my men are working as fast as they can.",0
-9,VADER,Perhaps I can find new ways to motivate them.,0
-10,JERJERROD,"I tell you, this station will be operational as planned.",0
-11,VADER,The Emperor does not share your optimistic appraisal of the situation.,0
-12,JERJERROD,But he asks the impossible. I need more men.,0
-13,VADER,Then perhaps you can tell him when he arrives.,0
-14,JERJERROD,The Emperor's coming here?,0
-15,VADER,"That is correct, Commander. And he is most displeased with your apparent lack of progress.",1
-16,JERJERROD,We shall double our efforts.,1
-17,VADER,"I hope so, Commander, for your sake. The Emperor is not as forgiving as I am.",0
-18,THREEPIO,"Of course I'm worried. And you should be, too. Lando Calrissian and poor Chewbacca never returned from this awful place.",1
-19,THREEPIO,"Don't be so sure. If I told you half the things I've heard about this Jabba the Hutt, You'd probably short-circuit.",0
-20,THREEPIO,"Artoo, are you sure this is the right place? I better knock, I suppose.",0
-21,THREEPIO,There doesn't seem to be anyone there. Let's go back and tell Master Luke.,1
-22,STRANGE VOICE,Tee chuta hhat yudd!,1
-23,THREEPIO,Goodness gracious me!,0
-24,THREEPIO,Artoo Detoowha bo Seethreepiowha ey toota odd mischka Jabba du Hutt.,0
-25,THREEPIO,"I don't think they're going to let us in, Artoo. We'd better go.",0
-26,THREEPIO,"Artoo, wait. Oh, dear! Artoo. Artoo, I really don't think we should rush into all this.",0
-27,THREEPIO,"Oh, Artoo!  Artoo, wait for me!",0
-28,THREEPIO,"Just you deliver Master Luke's message and get us out of here. Oh my! Oh! Oh, no.",1
-29,BIB,Die Wanna Wanga!,0
-30,THREEPIO,"Oh, my! Die Wanna Wauaga. We -- we bring a message to your master, Jabba the Hutt.",0
-31,THREEPIO,"... and a gift.  Gift, what gift?",0
-32,BIB,Nee Jabba no badda. Me chaade su goodie.,1
-33,THREEPIO,He says that our instructions are to give it only to Jabba himself.,0
-34,THREEPIO,I'm terribly sorry. I'm afraid he's ever so stubborn about these sort of things.,0
-35,BIB,Nudd Chaa.,1
-36,THREEPIO,"Artoo, I have a bad feeling about this.",0
-37,THREEPIO,Good morning.,1
-38,JABBA,Bo Shuda!,0
-39,THREEPIO,"The message, Artoo, the message.",0
-40,LUKE,"Greetings, Exalted One. Allow me to introduce myself. I am Luke Skywalker, Jedi Knight and friend to Captain Solo. I know that you are powerful, mighty Jabba, and that your anger with Solo must be equally powerful. I seek an audience with Your Greatness to bargain for Solo's life.  With your wisdom, I'm sure that we can work out an arrangement which will be mutually beneficial and enable us to avoid any unpleasant confrontation. As a token of my goodwill, I present to you a gift: these two droids.",1
-41,THREEPIO,What did he say?,0
-42,LUKE,... Both are hardworking and will serve you well.,1
-43,THREEPIO,"This can't be! Artoo, you're playing the wrong message.",0
-44,JABBA,There will be no bargain.,1
-45,THREEPIO,We're doomed.,0
-46,JABBA,I will not give up my favorite decoration. I like Captain Solo where he is.,1
-47,THREEPIO,"Artoo, look! Captain Solo. And he's still frozen in carbonite.",1
-48,THREEPIO,What could possibly have come over Master Luke. Is it something I did? He never expressed any unhappiness with my work. Oh! Oh! Hold it! Ohh!,0
-49,NINEDENINE,"Ah, good. New acquisitions. You are a protocol droid, are you not?",1
-50,THREEPIO,"I am See-Threepio, human-cy...",0
-51,NINEDENINE,Yes or no will do.,0
-52,THREEPIO,"Oh. Well, yes.",1
-53,NINEDENINE,How many languages do you speak?,0
-54,THREEPIO,"I am fluent in over six million forms of communication, and can readily...",0
-55,NINEDENINE,Splendid! We have been without an interpreter since our master got angry with our last protocol droid and disintegrated him.,1
-56,THREEPIO,Disintegrated?,0
-57,NINEDENINE,Guard! This protocol droid might be useful. Fit him with a restraining bolt and take him back to His Excellency's main audience chamber.,1
-58,THREEPIO,"Artoo, don't leave me! Ohhh!",0
-59,NINEDENINE,"You're a feisty little one, but you'll soon learn some respect. I have need for you on the master's Sail Barge. And I think you'll fit in nicely.",1
-60,JABBA,Da Eitha!,1
-61,OOLA,Na Chuba negatorie Na! Na! Natoota...,1
-62,JABBA,Boscka!,0
-63,BOUSHH,I have come for the bounty on this Wookiee.,0
-64,THREEPIO,"Oh, no! Chewbacca!",0
-65,JABBA,At last we have the mighty Chewbacca.,0
-66,THREEPIO,"Oh, uh, yes, uh, I am here, Your Worshipfulness. Uh... yes!",0
-67,THREEPIO,Oh. The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty- five thousand.,0
-68,BOUSHH,I want fifty thousand. No less.,0
-69,THREEPIO,"Uh, oh... but what, what did I say?  Uh, the mighty Jabba asks why he must pay fifty thousand.",0
-70,THREEPIO,Because he's holding a thermal detonator.,1
-71,JABBA,This bounty hunter is my kind of scum. Fearless and inventive.,1
-72,THREEPIO,Jabba offers the sum of thirty-five. And I suggest you take it.,0
-73,BOUSHH,Zeebuss.,1
-74,THREEPIO,He agrees!,0
-75,BOUSHH,Just relax for a moment. You're free of the carbonite.,1
-76,BOUSHH,Shhh. You have hibernation sickness.,1
-77,HAN,I can't see.,0
-78,BOUSHH,You eyesight will return in time.,1
-79,HAN,Where am I?,0
-80,BOUSHH,Jabba's palace.,1
-81,HAN,Who are you?,0
-82,LEIA,Someone who loves you.,0
-83,HAN,Leia!,0
-84,LEIA,I gotta get you out of here.,1
-85,HAN,What's that? I know that laugh.,0
-86,HAN,"Hey, Jabba. Look, Jabba, I was just on my way to pay you back, but I got a little sidetracked. It's not my fault.",0
-87,JABBA,"It's too late for that, Solo. You may have been a good smuggler, but now you're Bantha fodder.",1
-88,HAN,Look...,0
-89,JABBA,Take him away!,1
-90,HAN,Jabba... I'll pay you triple! You're throwing away a fortune here. Don't be a fool!,0
-91,JABBA,Bring her to me.,1
-92,LEIA,We have powerful friends. You're gonna regret this...,1
-93,JABBA,I'm sure.,1
-94,LEIA,Ugh!,0
-95,THREEPIO,"Ohhh, I can't bear to watch.",0
-96,HAN,"Chewie? Chewie, is that you?",0
-97,HAN,Ah! Chew--Chewie!,0
-98,HAN,"Wait. I can't see, pal. What's goin' on?",0
-99,HAN,"Luke? Luke's crazy. He can't even take care of himself, much less rescue anybody.",0
-100,HAN,"A...Jedi Knight? I--I'm out of it for a little while, everybody gets delusions of grandeur.",0
-101,HAN,"I'm all right, pal. I'm all right.",1
-102,LUKE,I must speak with Jabba.,1
-103,LUKE,You will take me to Jabba now!,0
-104,LUKE,You serve your master well.,1
-105,LUKE,And you will be rewarded.,1
-106,THREEPIO,At last! Master Luke's come to rescue me.,1
-107,BIB,Master.,1
-108,BIB,"...Luke Skywalker, Jedi Knight.",1
-109,JABBA,I told you not to admit him.,0
-110,LUKE,I must be allowed to speak.,0
-111,BIB,He must be allowed to speak.,0
-112,JABBA,You weak-minded fool! He's using an old Jedi mind trick.,0
-113,LUKE,You will bring Captain Solo and the Wookiee to me.,1
-114,JABBA,"Your mind powers will not work on me, boy.",1
-115,LUKE,"Nevertheless, I'm taking Captain Solo and his friends. You can either profit by this... or be destroyed! It's your choice. But I warn you not to underestimate my powers.",1
-116,THREEPIO,"Master Luke, you're standing on...",1
-117,JABBA,"There will be no bargain, young Jedi. I shall enjoy watching you die.",1
-118,JABBA,Bascka!,0
-119,THREEPIO,"Oh, no! The Rancor!",0
-120,JABBA,Bring me Solo and the Wookiee. They will all suffer for this outrage.,1
-121,LUKE,Han!,0
-122,HAN,Luke!,1
-123,LUKE,Are you all right?,0
-124,HAN,"Fine. Together again, huh?",1
-125,LUKE,Wouldn't miss it.,0
-126,HAN,How are we doing?,0
-127,LUKE,The same as always.,1
-128,HAN,"That bad, huh? Where's Leia?",0
-129,LEIA,I'm here.,1
-130,THREEPIO,"Oh, dear. His High Exaltedness, the great Jabba the Hutt, has decreed that you are to be terminated immediately.",0
-131,HAN,"Good, I hate long waits.",0
-132,THREEPIO,"You will therefore be taken to the Dune Sea and cast into the pit of Carkoon, the nesting place of the all-powerful Sarlacc.",0
-133,HAN,Doesn't sound so bad.,1
-134,THREEPIO,"In his belly, you will find a new definition of pain and suffering, as you are slowly digested over a thousand years.",0
-135,HAN,"On second thought, let's pass on that, huh?",0
-136,LUKE,"You should have bargained, Jabba. That's the last mistake you'll ever make.",1
-137,HAN,"I think my eyes are getting better. Instead of a big dark blur, I see a big light blur.",1
-138,LUKE,"There's nothing to see. I used to live here, you know.",0
-139,HAN,"You're gonna die here, you know. Convenient.",1
-140,LUKE,Just stick close to Chewie and Lando. I've taken care of everything.,1
-141,HAN,Oh... great!,0
-142,JABBA,Soon you will learn to appreciate me.,1
-143,THREEPIO,"Oh, I'm terribly sor... Artoo! What are you doing here?",0
-144,THREEPIO,"Well, I can see you're serving drinks, but this place is dangerous. They're going to execute Master Luke and, if we're not careful, us too!",0
-145,THREEPIO,Hmm.  I wish I had your confidence.,1
-146,THREEPIO,"Victims of the almighty Sarlacc: His Excellency hopes that you will die honorably. But should any of you wish to beg for mercy, the great Jabba the Hutt will now listen to your pleas.",0
-147,HAN,"Threepio, you tell that slimy piece of... worm-ridden filth he'll get no such pleasure from us. Right?",0
-148,LUKE,Jabba! This is your last chance. Free us or die.,0
-149,JABBA,Move him into position.,0
-150,JABBA,Put him in.,1
-151,LUKE,"Easy, Chewie.",0
-152,LANDO,Whoa! Whoa! Help!,1
-153,HAN,"Chewie, you okay? Where is he?",0
-154,HAN,"I'm okay, pal.",1
-155,LANDO,Han! Chewie?,0
-156,HAN,Lando!,1
-157,HAN,Boba Fett?! Boba Fett?! Where?,0
-158,HAN,"Lando, grab it!",1
-159,LANDO,Lower it!,0
-160,HAN,I'm trying!,0
-161,HAN,"Whoa! Whoa! Grab me, Chewie! I'm slipping.",1
-162,HAN,Grab it! L--Lando. Grab!,1
-163,HAN,Grab it! Almost... You almost got it!,0
-164,LANDO,Hold it! Whoa!,0
-165,HAN,"Gently now. All... all right. Now easy, easy. Hold me, Chewie.",0
-166,HAN,"Chewie! Chewie, give me the gun. Don't move, Lando.",1
-167,LANDO,"No, wait! I thought you were blind!",0
-168,HAN,It's all right. Trust me. Don't move.,1
-169,LANDO,All right! A little higher! Just a little higher!,0
-170,HAN,"Chewie, Pull us up! Come on! Okay... up, Chewie, up!",0
-171,LEIA,Come on. We gotta get out of here quick.,1
-172,THREEPIO,"Not my eyes! Artoo, help! Quickly, Artoo. Oh! Ohhh! You beast!",0
-173,LUKE,Get the gun! Point it at the deck!,1
-174,LUKE,Point it at the deck!,0
-175,THREEPIO,"Artoo, where are we going? I couldn't possibly jump.",0
-176,LUKE,Come on!,1
-177,LUKE,Let's go! And don't forget the droids.,1
-178,LANDO,We're on our way.,1
-179,HAN,I don't know. All I can see is a lot of blowing sand!,0
-180,LEIA,That's all any of us can see.,1
-181,HAN,Then I guess I'm getting better.,0
-182,HAN,"I've got to hand it to you, kid, you were pretty good out there.",0
-183,LUKE,I had a lot of help. Think nothing of it.,1
-184,HAN,"No, I'm thinking a lot about it. That carbon freeze was the closest thing to dead there is. And it wasn't just sleepin'. It was a big wide awake nothing!",0
-185,LUKE,I'll see you back at the fleet.,1
-186,HAN,Why don't you leave that crate and come with us?,0
-187,LUKE,I have a promise I have to keep first... to an old friend.,0
-188,HAN,"Guess I owe you some thanks, too, Lando.",1
-189,LANDO,"Figured if I left you frozen like that you'd just give me bad luck the rest of my life, so I might as well get you unfrozen sooner or later.",0
-190,LEIA,"He means ""You're welcome.""",1
-191,LANDO,"Come on, let's get off this miserable dust ball.",1
-192,LUKE,I'll meet you back at the fleet.,1
-193,LEIA,Hurry. The Alliance should be assembled by now.,1
-194,LUKE,I will.,0
-195,HAN,"Hey, Luke, thanks. Thanks for comin' after me. Now I owe you one.",1
-196,LUKE,"That's right, Artoo. We're going to the  Dagobah system. I have a promise to keep...  to an old friend.",0
-197,EMPEROR,"Rise, my friend.",0
-198,VADER,The Death Star will be completed on schedule.,0
-199,EMPEROR,"You have done well, Lord Vader. And now I sense you wish to continue your search for young Skywalker.",0
-200,VADER,"Yes, my Master.",1
-201,EMPEROR,"Patience, my friend. In time he will seek you out. And when he does, you must bring him before me. He has grown strong. Only together can we turn him to the dark side of the Force.",1
-202,VADER,As you wish.,1
-203,EMPEROR,Everything is proceeding as I have foreseen.,1
-204,YODA,Hmm. That face you make. Look I so old to young eyes?,0
-205,LUKE,No... of course not.,1
-206,YODA,"I do, yes, I do!  Sick have I become. Old and weak.  When nine hundred years old you reach, look as good you will not. Hmm?",0
-207,YODA,"Soon will I rest. Yes, forever sleep. Earned it, I have.",0
-208,LUKE,"Master Yoda, you can't die.",0
-209,YODA,Strong am I with the Force... but not that strong! Twilight is upon me and soon night must fall. That is the way of things ... the way of the Force.,0
-210,LUKE,But I need your help. I've come back to complete the training.,1
-211,YODA,No more training do you require. Already know you that which you need.,1
-212,LUKE,Then I am a Jedi?,0
-213,YODA,"Ohhh. Not yet. One thing remains: Vader. You must confront Vader. Then, only then, a Jedi will you be. And confront him you will.",1
-214,LUKE,Master Yoda... is Darth Vader my father?,1
-215,YODA,Mmm... rest I need. Yes... rest.,1
-216,LUKE,"Yoda, I must know.",0
-217,YODA,Your father he is.,1
-218,YODA,"Told you, did he?",0
-219,LUKE,Yes.,1
-220,YODA,"Unexpected this is, and unfortunate..",0
-221,LUKE,Unfortunate that I know the truth?,0
-222,YODA,No. Unfortunate that you rushed to face him... that incomplete was your training. Not ready for the burden were you.,0
-223,LUKE,"Well, I'm sorry.",1
-224,YODA,"Remember, a Jedi's strength flows from the Force.  But beware.  Anger, fear, aggression. The dark side are they.  Once you start down the dark path, forever will it dominate your destiny.",1
-225,YODA,"Luke...Luke...Do not...Do not underestimate the powers of the Emperor, or suffer your father's fate, you will. Luke, when gone am I , the last of the Jedi will you be. Luke, the Force runs strong in your family. Pass on what you have learned, Luke...  There is... another...Sky...Sky...walker.",0
-226,LUKE,"I can't do it, Artoo. I can't go on alone.",0
-227,BEN,Yoda will always be with you.,1
-228,LUKE,Obi-Wan! Why didn't you tell me?,0
-229,LUKE,You told me Vader betrayed and murdered my father.,0
-230,BEN,"You father was seduced by the dark side of the Force. He ceased to be Anakin Skywalker and became Darth Vader. When that happened, the good man who was your father was destroyed. So what I have told you was true... from a certain point of view.",0
-231,LUKE,A certain point of view!,0
-232,BEN,"Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view.",0
-233,BEN,"I don't blame you for being angry. If I was wrong in what I did, it certainly wouldn't have been for the first time. You see, what happened to your father was my fault.",0
-234,BEN,Anakin was a good friend.,1
-235,BEN,"When I first knew him, your father was already a great pilot. But I was amazed how strongly the Force was with him.  I took it upon myself to train him as a Jedi.  I thought that I could instruct him just as well as Yoda.  I was wrong.  My pride has had terrible consequences for the galaxy.",0
-236,LUKE,There's still good in him.,1
-237,BEN,I also thought he could be turned back to the good side. It couldn't be done. He is more machine now than man. Twisted and evil.,0
-238,LUKE,"I can't do it, Ben.",0
-239,BEN,You cannot escape your destiny.,0
-240,LUKE,I tried to stop him once. I couldn't do it.,0
-241,BEN,"Vader humbled you when first you met him, Luke...but that experience was part of your training. It taught you, among other things, the value of patience.  Had you not been so impatient to defeat Vader then, you could have finished your training here with Yoda. You would have been prepared.",1
-242,LUKE,But I had to help my friends.,0
-243,BEN,"And did you help them? It was they who had to save you. You achieved little by rushing back prematurely, I fear.",0
-244,LUKE,I found out Darth Vader was my father.,0
-245,BEN,"To be a Jedi, Luke, you must confront and then go beyond the dark side - the side your father couldn't get past. Impatience is the easiest door - for you, like your father. Only, your father was seduced by what he found on the other side of the door, and you have held firm. You're no longer so reckless now, Luke. You are strong and patient. And now, you must face Darth Vader again!",0
-246,LUKE,I can't kill my own father.,0
-247,BEN,Then the Emperor has already won. You were our only hope.,0
-248,LUKE,Yoda spoke of another.,1
-249,BEN,The other he spoke of is your twin sister.,1
-250,LUKE,But I have no sister.,1
-251,BEN,"Hmm. To protect you both from the Emperor, you were hidden from your father when you were born. The Emperor knew, as I did, if Anakin were to have any offspring, they would be a threat to him. That is the reason why your sister remains safely anonymous.",0
-252,LUKE,Leia! Leia's my sister.,1
-253,BEN,"Your insight serves you well. Bury your feelings deep down, Luke. They do you credit. But they could be made to serve the Emperor.",0
-254,BEN,"When your father left, he didn't know your mother was pregnant. Your mother and I knew he would find out eventually, but we wanted to keep you both as safe as possible, for as long as possible.  So I took you to live with my brother Owen on Tatooine... and your mother took Leia to live as the daughter of Senator Organa, on Alderaan.",0
-255,BEN,"The Organa household was high-born and politically quite powerful in that system. Leia became a princess by virtue of lineage... no one knew she'd been adopted, of course. But it was a title without real power, since Alderaan had long been a democracy.  Even so, the family continued to be politically powerful, and Leia, following in her foster father's path, became a senator as well.  That's not all she became, of course... she became the leader of her cell in the Alliance against the corrupt Empire. And because she had diplomatic immunity, she was a vital link for getting information to the Rebel cause.  That's what she was doing when her path crossed yours... for her foster parents had always told her to contact me on Tatooine, if her troubles became desperate.",0
-256,LUKE,"But you can't let her get involved now, Ben. Vader will destroy her.",0
-257,BEN,"She hasn't been trained in the ways of the Jedi the way you have, Luke ... but the Force is strong with her, as it is with all of your family. There is no avoiding the battle. You must face and destroy Vader!",1
-258,HAN,"Well, look at you, a general, huh?",0
-259,LANDO,"Oh, well, someone must have told them about my little maneuver at the battle of Taanab.",0
-260,HAN,"Well, don't look at me, pal. I just said you were a fair pilot. I didn't know they were lookin' for somebody to lead this crazy attack.",0
-261,LANDO,I'm surprised they didn't ask you to do it.,0
-262,HAN,"Well, who says they didn't.  But I ain't crazy. You're the respectable one, remember?",0
-263,MON MOTHMA,The Emperor has made a critical error and the time for our attack has come.,0
-264,MON MOTHMA,"The data brought to us by the Bothan spies pinpoints the exact location of the Emperor's new battle station. We also know that the weapon systems of this Death Star are not yet operational. With the Imperial Fleet spread throughout the galaxy in a vain effort to engage us, it is relatively unprotected. But most important of all, we've learned that the Emperor himself is personally overseeing the final stages of the construction of this Death Star.",0
-265,MON MOTHMA,"Many Bothans died to bring us this information. Admiral Ackbar, please.",0
-266,ACKBAR,"You can see here the Death Star orbiting the forest Moon of Endor. Although the weapon systems on this Death Star are not yet operational, the Death Star does have a strong defense mechanism. It is protected by an energy shield, which is generated from the nearby forest Moon of Endor. The shield must be deactivated if any attack is to be attempted. Once the shield is down, our cruisers will create a perimeter, while the fighters fly into the superstructure and attempt to knock out the main reactor.",0
-267,ACKBAR,General Calrissian has volunteered to lead the fighter attack,1
-268,HAN,Good luck.,1
-269,HAN,You're gonna need it.,1
-270,ACKBAR,General Madine.,1
-271,GENERAL MADINE,"We have stolen a small Imperial shuttle. Disguised as a cargo ship, and using a secret Imperial code, a strike team will land on the moon and deactivate the shield generator.",0
-272,THREEPIO,Sounds dangerous.,1
-273,LEIA,I wonder who they found to pull that off.,0
-274,GENERAL MADINE,"General Solo, is your strike team assembled?",1
-275,HAN,"Uh, my team's ready. I don't have a command crew for the shuttle.",1
-276,HAN,"Well, it's gonna be rough, pal. I didn't want to speak for you.",1
-277,HAN,That's one.,1
-278,LEIA,"Uh, General... count me in.",0
-279,VOICE,"I'm with you, too!",1
-280,LEIA,What is it?,0
-281,LUKE,Ask me again sometime.,0
-282,HAN,Luke.,1
-283,LUKE,"Hi, Han... Chewie.",1
-284,THREEPIO,"""Exciting"" is hardly the word I would use.",0
-285,HAN,Look. I want you to take her. I mean it. Take her. You need all the help you can get. She's the fastest ship in the fleet.,1
-286,LANDO,"All right, old buddy. You know, I know what she means to you. I'll take good care of her. She-she won't get a scratch. All right?",1
-287,HAN,Right. I got your promise now. Not a scratch.,1
-288,LANDO,"Look, would you get going, you pirate.",0
-289,LANDO,Good luck.,1
-290,HAN,"You, too.",0
-291,HAN,You got her warmed?,0
-292,LUKE,"Yeah, she's comin' up.",1
-293,HAN,"No. I don't think the Empire had Wookiees in mind when they designed her, Chewie.",0
-294,LEIA,"Hey, are you awake?",0
-295,HAN,"Yeah, I just got a funny feeling. Like I'm not gonna see her again.",1
-296,LEIA,"Come on, General, let's move.",1
-297,HAN,"Right. Chewie, let's see what this piece of junk can do. Ready, everybody?",0
-298,LUKE,All set.,1
-299,THREEPIO,Here we go again.,1
-300,HAN,"All right, hang on.",1
-301,VADER,"What is thy bidding, my Master?",0
-302,EMPEROR,Send the fleet to the far side of Endor. There it will stay until called for.,0
-303,VADER,What of the reports of the Rebel fleet massing near Sullust?,1
-304,EMPEROR,"It is of no concern. Soon the Rebellion will be crushed and young Skywalker will be one of us! Your work here is finished, my friend. Go out to the command ship and await my orders.",1
-305,VADER,"Yes, my Master.",1
-306,HAN,"If they don't go for this, we're gonna have to get outta here pretty quick, Chewie.",0
-307,CONTROLLER,We have you on our screen now. Please identify.,0
-308,HAN,Shuttle Tydirium requesting deactivation of the deflector shield.,0
-309,CONTROLLER,"Shuttle Tydirium, transmit the clearance code for shield passage.",0
-310,HAN,Transmission commencing.,1
-311,LEIA,Now we find out if that code is worth the price we paid.,0
-312,HAN,It'll work. It'll work.,1
-313,LUKE,Vader's on that ship.,1
-314,HAN,"Now don't get jittery, Luke. There are a lot of command ships. Keep your distance though, Chewie, but don't look like you're trying to keep your distance.",1
-315,HAN,I don't know.  Fly casual.,0
-316,LUKE,I'm endangering the mission. I shouldn't have come.,1
-317,HAN,"It's your imagination, kid. Come on. Let's keep a little optimism here.",1
-318,VADER,Where is that shuttle going?,0
-319,PIETT,"Shuttle Tydirium, what is your cargo and destination?",0
-320,PILOT VOICE,Parts and technical crew for the forest moon.,1
-321,VADER,Do they have a code clearance?,0
-322,PIETT,"It's an older code, sir, but it checks out. I was about to clear them.",0
-323,PIETT,Shall I hold them?,0
-324,VADER,No. Leave them to me. I will deal with them myself.,1
-325,PIETT,"As you wish, my lord.  Carry on.",1
-326,HAN,"They're not goin' for it, Chewie.",0
-327,CONTROLLER,"Shuttle Tydirium, deactivation of the shield will commence immediately. Follow your present course.",1
-328,HAN,Okay! I told you it was gonna work. No problem.,1
-329,THREEPIO,"Oh, I told you it was dangerous here.",0
-330,LEIA,Shall we try and go around?,0
-331,HAN,It'll take time. This whole party'll be for nothing if they see us.,0
-332,HAN,Chewie and I will take care of this. You stay here.,1
-333,LUKE,"Quietly, there might be more of them out there.",1
-334,HAN,Hey... it's me.,1
-335,SCOUT #1,Go for help! Go!,0
-336,LUKE,Great. Come on.,1
-337,LEIA,Over there! Two more of them!,0
-338,LUKE,"I see them. Wait, Leia!",0
-339,LUKE,Quick! Jam their comlink. Center switch!,1
-340,HAN,"Hey, wait! Ahhh!",0
-341,LUKE,Move closer!,0
-342,LUKE,Get alongside that one!,1
-343,LUKE,Get him!,1
-344,LUKE,Keep on that one! I'll take these two!,0
-345,THREEPIO,"Oh, General Solo, somebody's coming. Oh!",1
-346,HAN,Luke! Where's Leia?,0
-347,LUKE,What? She didn't come back?,0
-348,HAN,I thought she was with you.,0
-349,LUKE,We got separated.,1
-350,LUKE,"Hey, we better go look for her.",1
-351,HAN,Take the squad ahead.  We'll meet at the shield generator at 0300.,1
-352,LUKE,"Come on, Artoo.  We'll need your scanners.",0
-353,THREEPIO,"Don't worry, Master Luke.  We know what to do.",1
-354,THREEPIO,And you said it was pretty here. Ugh!,0
-355,LEIA,Cut it out!,0
-356,LEIA,I'm not gonna hurt you.,1
-357,LEIA,"Well, looks like I'm stuck here. Trouble is, I don't know where here is.",0
-358,LEIA,"Well, maybe you can help me. Come on, sit down.",1
-359,LEIA,I promise I won't hurt you. Now come here.,0
-360,LEIA,All right. You want something to eat?,0
-361,LEIA,That's right. Come on. Hmmm?,1
-362,LEIA,"Look, it's a hat. It's not gonna hurt you. Look. You're a jittery little thing, aren't you?",1
-363,LEIA,What is it?,0
-364,SCOUT #l,"Freeze!  Come on, get up!",0
-365,SCOUT #1,Go get your ride and take her back to base.,1
-366,SCOUT #2,"Yes, sir.",1
-367,LEIA,"Come on, let's get outta here.",1
-368,GUARD,Halt! The Emperor does not wish to be disturbed at the moment.,0
-369,VADER,"The Emperor will see me, now!",0
-370,GUARD,"The Emperor will see you, now.",0
-371,EMPEROR,I told you to remain on the command ship.,0
-372,VADER,A small Rebel force has penetrated the shield and landed on Endor.,1
-373,EMPEROR,"Yes, I know.",0
-374,VADER,My son is with them.,1
-375,EMPEROR,Are you sure?,0
-376,VADER,"I have felt him, my Master.",1
-377,EMPEROR,"Strange, that I have not. I wonder if your feelings on this matter are clear, Lord Vader.",0
-378,VADER,"They are clear, my Master.",1
-379,EMPEROR,Then you must go to the Sanctuary Moon and wait for them.,0
-380,VADER,He will come to me?,0
-381,EMPEROR,I have foreseen it. His compassion for you will be his undoing. He will come to you and then you will bring him before me.,0
-382,VADER,As you wish.,1
-383,HAN,Luke! Luke!,1
-384,THREEPIO,"Oh, Master Luke.",1
-385,LUKE,There's two more wrecked speeders back there. And I found this.,0
-386,THREEPIO,I'm afraid that Artoo's sensors can find no trace of Princess Leia.,0
-387,HAN,I hope she's alright.,1
-388,HAN,"What, Chewie? What? Chewie!",0
-389,HAN,"Hey, I don't get it.",0
-390,HAN,"Nah, it's just a dead animal, Chewie.",0
-391,LUKE,"Chewie, wa-wait!  Don't!",0
-392,HAN,"Nice work. Great, Chewie! Great! Always thinking with your stomach.",1
-393,LUKE,"Will you take it easy? Let's just figure out a way to get out of this thing.  Han, can you reach my lightsaber?",0
-394,HAN,"Yeah, sure.",1
-395,THREEPIO,"Artoo, I'm not sure that's such a good idea. It's a very long dro-o-op!!",1
-396,HAN,Wha--?  Hey!  Point that thing someplace else.,0
-397,HAN,Hey!,1
-398,LUKE,"Han, don't. It'll be all right.",1
-399,LUKE,"Chewie, give 'em your crossbow.",1
-400,THREEPIO,"Oh, my head. Oh, my goodness!",0
-401,LUKE,Do you understand anything they're saying?,0
-402,THREEPIO,"Oh, yes, Master Luke!  Remember that I am fluent in over six million forms of communication.",0
-403,HAN,What are you telling them?,0
-404,THREEPIO,"Hello, I think... I could be mistaken. They're using a very primitive dialect.  But I do believe they think I am some sort of god.",0
-405,HAN,"Well, why don't you use your divine influence and get us out of this?",0
-406,THREEPIO,"I beg your pardon, General Solo, but that just wouldn't be proper.",0
-407,HAN,Proper?!,0
-408,THREEPIO,It's against my programming to impersonate a deity.,0
-409,HAN,"Why, you--",0
-410,HAN,My mistake. He's an old friend of mine.,1
-411,HAN,I have a really bad feeling about this.,0
-412,HAN,What did he say?,0
-413,THREEPIO,"I'm rather embarrassed, General Solo, but it appears you are to be the main course at a banquet in my honor.",0
-414,HAN and LUKE,Leia!,0
-415,LEIA,Oh!,0
-416,THREEPIO,Your Royal Highness.,0
-417,LEIA,"But these are my friends. Threepio, tell them they must be set free.",1
-418,HAN,"Somehow, I got the feeling that didn't help us very much.",0
-419,LUKE,"Threepio, tell them if they don't do as you wish, you'll become angry and use your magic.",0
-420,THREEPIO,"But Master Luke, what magic? couldn't possibly --",0
-421,LUKE,Just tell them.,0
-422,THREEPIO,"You see, Master Luke; they didn't believe me. Just...",0
-423,THREEPIO,"... as I said they wouldn't. Wha-wha-what's happening! Oh! Oh, dear! Oh!",0
-424,THREEPIO,"Put me down! He-e-elp! Master Luke! Artoo! Somebody, somebody, help! Master Luke, Artoo! Artoo, quickly! Do something, somebody! Oh! Ohhh!",0
-425,THREEPIO,"Oh, oh, oh, oh! Thank goodness.",0
-426,LUKE,"Thanks, Threepio.",1
-427,THREEPIO,I...I never knew I had it in me.,0
-428,THREEPIO,"Yes, Artoo. I was just coming to that.",0
-429,HAN,What's going on?,1
-430,LEIA,I don't know.,0
-431,THREEPIO,Wonderful! We are now a part of the tribe.,1
-432,HAN,Just what I always wanted.,0
-433,HAN,"Well, short help is better than no help at all, Chewie.  Thank you. Okay.",1
-434,THREEPIO,He says the scouts are going to show us the quickest way to the shield generator.,0
-435,HAN,"Good. How far is it? Ask him. We need some fresh supplies, too. And try and get our weapons back.",1
-436,HAN,"And hurry up, will ya? I haven't got all day.",0
-437,LUKE,"Luke, what's wrong?",0
-438,LUKE,Leia... do you remember your mother? Your real mother?,0
-439,LEIA,Just a little bit. She died when I was very young.,0
-440,LUKE,What do you remember?,0
-441,LEIA,"Just...images, really. Feelings.",1
-442,LUKE,Tell me.,1
-443,LEIA,"She was very beautiful. Kind, but...sad.  Why are you asking me all this?",0
-444,LUKE,I have no memory of my mother. I never knew her.,0
-445,LEIA,"Luke, tell me. What's troubling you?",0
-446,LUKE,"Vader is here...now, on this moon.",0
-447,LEIA,How do you know?,0
-448,LUKE,"I felt his presence. He's come for me. He can feel when I'm near. That's why I have to go.  As long as I stay, I'm endangering the group and our mission here.  I have to face him.",0
-449,LEIA,Why?,0
-450,LUKE,He's my father.,1
-451,LEIA,Your father?,0
-452,LUKE,"There's more. It won't be easy for you to hear it, but you must. If I don't make it back, you're the only hope for the Alliance.",0
-453,LEIA,"Luke, don't talk that way. You have a power I--I don't understand and could never have.",0
-454,LUKE,"You're wrong, Leia. You have that power too. In time you'll learn to use it as I have. The Force is strong in my family. My father has it...I have it...and...my sister has it.",0
-455,LUKE,Yes. It's you Leia.,1
-456,LEIA,I know. Somehow...I've always known.,1
-457,LUKE,Then you know why I have to face him.,0
-458,LEIA,"No! Luke, run away, far away. If he can feel your presence, then leave this place. I wish I could go with you.",0
-459,LUKE,"No, you don't. You've always been strong.",1
-460,LEIA,"But, why must you confront him?",0
-461,LUKE,Because...there is good in him. I've felt it. He won't turn me over to the Emperor. I can save him. I can turn him back to the good side. I have to try.,0
-462,HAN,"Hey, what's goin' on?",0
-463,LEIA,Nothing. I - just want to be alone for a little while.,0
-464,HAN,"Nothing?  Come on, tell me.  What's goin' on?",0
-465,LEIA,I...I can't tell you.,0
-466,HAN,Did you tell Luke? Is that who you could tell?,0
-467,LEIA,I...,0
-468,HAN,Ahhh...,0
-469,HAN,I'm sorry.,0
-470,LEIA,Hold me.,1
-471,COMMANDER,"This is a Rebel that surrendered to us. Although he denies it, I believe there may be more of them, and I request permission to conduct a further search of the area.",0
-472,COMMANDER,He was armed only with this.,1
-473,VADER,"Good work, Commander. Leave us. Conduct your search and bring his companions to me.",1
-474,COMMANDER,"Yes, my Lord.",1
-475,VADER,The Emperor has been expecting you.,0
-476,LUKE,"I know, father.",1
-477,VADER,"So, you have accepted the truth.",0
-478,LUKE,"I've accepted the truth that you were once Anakin Skywalker, my father.",0
-479,VADER,That name no longer has any meaning for me.,0
-480,LUKE,It is the name of your true self. You've only forgotten. I know there is good in you. The Emperor hasn't driven it from you fully. That is why you couldn't destroy me. That's why you won't bring me to your Emperor now.,0
-481,VADER,I see you have constructed a new lightsaber.,0
-482,VADER,"Your skills are complete. Indeed, you are powerful, as the Emperor has foreseen.",1
-483,LUKE,Come with me.,1
-484,VADER,Obi-Wan once thought as you do.,0
-485,VADER,You don't know the power of the dark side. I must obey my master.,1
-486,LUKE,I will not turn...and you'll be forced to kill me.,0
-487,VADER,If that is your destiny.,0
-488,LUKE,"Search your feelings, father. You can't do this. I feel the conflict within you. Let go of your hate.",0
-489,VADER,"It is too late for me, son. The Emperor will show you the true nature of the Force. He is your master now.",0
-490,LUKE,Then my father is truly dead.,0
-491,LEIA,The main entrance to the control bunker's on the far side of that landing platform. This isn't gonna be easy.,0
-492,HAN,"Hey, don't worry. Chewie and me got into a lot of places more heavily guarded than this.",0
-493,LEIA,What's he saying?,1
-494,THREEPIO,He says there's a secret entrance on the other side of the ridge.,1
-495,LANDO,"Admiral, we're in position. All fighters accounted for.",1
-496,ACKBAR,Proceed with the countdown. All groups assume attack coordinates.,1
-497,LANDO,"Don't worry, my friends are down there. They'll have that shield down on time... or this'll be the shortest offensive of all time.",0
-498,ACKBAR,"All craft, prepare to jump to hyperspace on my mark.",0
-499,LANDO,All right. Stand by.,1
-500,HAN,"Back door, huh? Good idea.",1
-501,HAN,It's only a few guards. This shouldn't be too much trouble.,1
-502,LEIA,"Well, it only takes one to sound the alarm.",1
-503,HAN,Then we'll do it real quiet-like.,0
-504,THREEPIO,"Oh! Oh, my. Uh, Princess Leia!",0
-505,LEIA,Quiet.,1
-506,THREEPIO,I'm afraid our furry companion has gone and done something rather rash.,1
-507,LEIA,"Oh, no.",0
-508,HAN,There goes our surprise attack.,1
-509,SCOUT,Look! Over there! Stop him!,0
-510,HAN,Not bad for a little furball. There's only one left. You stay here. We'll take care of this.,1
-511,THREEPIO,I have decided that we shall stay here.,0
-512,EMPEROR,"Welcome, young Skywalker. I have been expecting you.",1
-513,EMPEROR,You no longer need those.,0
-514,EMPEROR,"Guards, leave us.",1
-515,EMPEROR,I'm looking forward to completing your training. In time you will call me Master.,1
-516,LUKE,You're gravely mistaken. You won't convert me as you did my father.,0
-517,EMPEROR,"Oh, no, my young Jedi. You will find that it is you who are mistaken...about a great many things.",0
-518,VADER,His lightsaber.,1
-519,EMPEROR,"Ah, yes, a Jedi's weapon. Much like your father's. By now you must know your father can never be turned from the dark side. So will it be with you.",1
-520,LUKE,You're wrong. Soon I'll be dead...and you with me.,1
-521,EMPEROR,Perhaps you refer to the imminent attack of your Rebel fleet.,1
-522,EMPEROR,Yes...I assure you we are quite safe from your friends here.,1
-523,LUKE,Your overconfidence is your weakness.,0
-524,EMPEROR,Your faith in your friends is yours.,1
-525,VADER,"It is pointless to resist, my son.",0
-526,EMPEROR,Everything that has transpired has done so according to my design.  Your friends up there on the Sanctuary Moon...,0
-527,EMPEROR,...are walking into a trap. As is your Rebel fleet! It was I who allowed the Alliance to know the location of the shield generator. It is quite safe from your pitiful little band. An entire legion of my best troops awaits them.,0
-528,EMPEROR,Oh...I'm afraid the deflector shield will be quite operational when your friends arrive.,1
-529,HAN,"All right! Up! Move! Come on! Quickly! Quickly, Chewie.",0
-530,LEIA,Han! Hurry! The fleet will be here any moment.,1
-531,HAN,"Charges!  Come on, come on!",1
-532,THREEPIO,"Oh, my! They'll be captured!",0
-533,THREEPIO,"Wa-wait! Wait, come back! Artoo, stay with me.",0
-534,COMMANDER,Freeze! You Rebel scum.,0
-535,LANDO,All wings report in.,0
-536,WEDGE,Red Leader standing by.,1
-537,GRAY LEADER,Gray Leader standing by.,1
-538,GREEN LEADER,Green Leader standing by.,1
-539,WEDGE,Lock S-foils in attack positions.,0
-540,ACKBAR,May the Force be with us.,1
-541,LANDO,"We've got to be able to get some kind of a reading on that shield, up or down. Well, how could they be jamming us if they don't know if we're coming.",0
-542,LANDO,Break off the attack! The shield is still up.,1
-543,RED LEADER,I get no reading. Are you sure?,0
-544,LANDO,Pull up! All craft pull up!,0
-545,ACKBAR,"Take evasive action! Green Group, stick close to holding sector MV-7.",0
-546,CONTROLLER,"Admiral, we have enemy ships in sector 47.",0
-547,ACKBAR,It's a trap!,0
-548,LANDO,Fighters coming in.,1
-549,REBEL PILOT,There's too many of them!,0
-550,LANDO,Accelerate to attack speed! Draw their fire away from the cruisers.,0
-551,WEDGE,"Copy, Gold Leader.",1
-552,EMPEROR,"Come, boy. See for yourself.",1
-553,EMPEROR,"From here you will witness the final destruction of the Alliance, and the end of your insignificant Rebellion.",1
-554,EMPEROR,"You want this, don't you? The hate is swelling in you now. Take your Jedi weapon. Use it. I am unarmed. Strike me down with it. Give in to your anger. With each passing moment, you make yourself more my servant.",1
-555,LUKE,No!,1
-556,EMPEROR,"It is unavoidable. It is your destiny. You, like your father, are now mine!",1
-557,STORMTROOPER,"All right, move it! I said move it! Go on!",0
-558,THREEPIO,"Hello! I say, over there! Were you looking for me?",0
-559,BUNKER COMMANDER,Bring those two down here!,1
-560,STORMTROOPER,Let's go!,1
-561,THREEPIO,"Well, they're on their way. Artoo, are you sure this was a good idea?",1
-562,STORMTROOPER,Freeze! Don't move!,0
-563,THREEPIO,We surrender.,0
-564,THREEPIO,"Ohhh! Stand back, Artoo.",0
-565,LEIA,The code's changed. We need Artoo!,0
-566,HAN,Here's the terminal.,0
-567,LEIA,"Artoo, where are you? We need you at the bunker right away.",0
-568,THREEPIO,"Going? What do you mean, you're going. But-- but going where, Artoo? No, what! Artoo! Oh, this is no time for heroics. Come back!",0
-569,LANDO,"Watch yourself, Wedge! Three from above!",0
-570,WEDGE,"Red Three, Red Two, pull in!",0
-571,RED TWO,Got it!,1
-572,RED THREE,"Three of them coming in, twenty degrees!",0
-573,WEDGE,Cut to the left! I'll take the leader! They're heading for the medical frigate.,1
-574,NAVIGATOR,Pressure's steady.,1
-575,LANDO,Only the fighters are attacking.  I wonder what those Star Destroyers are waiting for.,1
-576,COMMANDER,"We're in attack position now, sir.",1
-577,PIETT,Hold here.,1
-578,COMMANDER,We're not going to attack?,0
-579,PIETT,I have my orders from the Emperor himself. He has something special planned for them. We only need to keep them from escaping.,1
-580,EMPEROR,"As you can see, my young apprentice, your friends have failed. Now witness the firepower of this fully armed and operational battle station.  Fire at will, Commander.",1
-581,JERJERROD,Fire!,0
-582,LANDO,"That blast came from the Death Star! That thing's operational!  Home One, this is Gold Leader.",1
-583,ACKBAR,We saw it. All craft prepare to retreat.,0
-584,LANDO,"You won't get another chance at this, Admiral.",0
-585,ACKBAR,"We have no choice, General Calrissian. Our cruisers can't repel firepower of that magnitude.",1
-586,LANDO,Han will have that shield down. We've got to give him more time.,0
-587,THREEPIO,We're coming!,1
-588,HAN,Come on! Come on!,1
-589,THREEPIO,"Oh, Artoo, hurry!",0
-590,THREEPIO,"My goodness! Artoo, why did you have to be so brave?",0
-591,HAN,"Well, I suppose I could hotwire this thing.",0
-592,LEIA,I'll cover you.,1
-593,LANDO,Yes! I said closer! Move as close as you can and engage those Star Destroyers at point- blank range.,0
-594,ACKBAR,"At that close range, we won't last long against those Star Destroyers.",0
-595,LANDO,We'll last longer then we will against that Death Star...and we might just take a few of them with us.,0
-596,REBEL PILOT,She's gonna blow!,1
-597,Y-WING PILOT,I'm hit!,1
-598,EMPEROR,"Your fleet has lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice. The Alliance will die...as will your friends.",1
-599,EMPEROR,"Good. I can feel your anger. I am defenseless.  Take your weapon! Strike me down with all your hatred, and your journey towards the dark side will be complete.",1
-600,WALKER PILOT #1,Look!,0
-601,PILOT #2,Get him off of there!,1
-602,HAN,I think I got it. I got it!,0
-603,THREEPIO,"Oh, Princess Leia, are you all right?",0
-604,HAN,Let's see.,1
-605,LEIA,It's not bad.,1
-606,STORMTROOPER,Freeze!,0
-607,THREEPIO,"Oh, dear.",0
-608,STORMTROOPER,Don't move!,0
-609,HAN,I love you.,0
-610,LEIA,I know.,0
-611,STORMTROOPER,Hands up! Stand up!,0
-612,HAN,Stay back.,1
-613,HAN,"Chewie!  Get down here!  She's wounded!  No, wait....  I got an idea.",0
-614,EMPEROR,"Good.  Use your aggressive feelings, boy!  Let the hate flow through you.",0
-615,VADER,Obi-Wan has taught you well.,1
-616,LUKE,"I will not fight you, father.",1
-617,VADER,You are unwise to lower your defenses.,0
-618,LUKE,"Your thoughts betray you, father. I feel the good in you...the conflict.",1
-619,VADER,There is no conflict.,1
-620,LUKE,"You couldn't bring yourself to kill me before, and I don't believe you'll destroy me now.",0
-621,VADER,"You underestimate the power of the dark side. If you will not fight, then you will meet your destiny.",0
-622,EMPEROR,Good.  Good.,1
-623,LANDO,Watch out. Squad at .06.,1
-624,REBEL PILOT,"I'm on it, Gold Leader.",0
-625,WEDGE,"Good shot, Red Two.",1
-626,LANDO,"Now...come on, Han, old buddy. Don't let me down.",1
-627,HAN/PILOT,"It's over, Commander. The Rebels have been routed. They're fleeing into the woods. We need reinforcements to continue the pursuit.",1
-628,CONTROL ROOM COMMANDER,Send three squads to help. Open the back door.,1
-629,SECOND COMMANDER,"Yes, sir.",1
-630,HAN,Throw me another charge.,1
-631,VADER,"You cannot hide forever, Luke.",0
-632,LUKE,I will not fight you.,1
-633,VADER,"Give yourself to the dark side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong. Especially for...",0
-634,VADER,"Sister! So...you have a twin sister. Your feelings have now betrayed her, too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the dark side, then perhaps she will.",0
-635,LUKE,Never-r-r!,1
-636,EMPEROR,"Good! Your hate has made you powerful. Now, fulfill your destiny and take your father's place at my side!",1
-637,LUKE,"Never! I'll never turn to the dark side. You've failed, Your Highness. I am a Jedi, like my father before me.",0
-638,EMPEROR,So be it...Jedi.,0
-639,HAN,Move! Move!,0
-640,ACKBAR,The shield is down! Commence attack on the Death Star's main reactor.,1
-641,LANDO,"We're on our way. Red Group, Gold Group, all fighters follow me.  Told you they'd do it!",1
-642,EMPEROR,"If you will not be turned, you will be destroyed.",0
-643,EMPEROR,"Young fool...only now, at the end, do you understand.",0
-644,EMPEROR,Your feeble skills are no match for the power of the dark side. You have paid the price for your lack of vision.,1
-645,LUKE,"Father, please. Help me.",1
-646,EMPEROR,"Now, young Skywalker...you will die.",0
-647,WEDGE,I'm going in.,0
-648,LANDO,Here goes nothing.,1
-649,LANDO,Now lock onto the strongest power source. It should be the power generator.,0
-650,WEDGE,Form up. And stay alert. We could run out of space real fast.,0
-651,LANDO,Split up and head back to the surface. See if you can get a few of those TIE fighters to follow you.,0
-652,PILOT,"Copy, Gold Leader.",1
-653,LANDO,That was too close.,0
-654,ACKBAR,We've got to give those fighters more time. Concentrate all fire on that Super Star Destroyer.,1
-655,CONTROLLER,"Sir, we've lost our bridge deflector shield.",1
-656,PIETT,Intensify the forward batteries. I don't want anything to get through.,0
-657,PIETT,Intensify forward firepower!,1
-658,COMMANDER,It's too late!,0
-659,VADER,"Luke, help me take this mask off.",1
-660,LURE,But you'll die.,0
-661,VADER,Nothing can stop that now. Just for once... let me look on you with my own eyes.,0
-662,ANAKIN,"Now...go, my son. Leave me.",1
-663,LUKE,No. You're coming with me. I can't leave you here. I've got to save you.,1
-664,ANAKIN,"You already have, Luke. You were right about me. Tell your sister...you were right.",1
-665,LUKE,Father... I won't leave you.,0
-666,WEDGE,There it is!,0
-667,LANDO,"All right, Wedge. Go for the power regulator on the north tower.",0
-668,WEDGE,"Copy, Gold Leader. I'm already on my way out.",1
-669,ACKBAR,Move the fleet away from the Death Star.,1
-670,LANDO,"Wedge, I don't think we're going to make it.",0
-671,WEDGE,You'll make it. Just follow me Gold Leader.,0
-672,LANDO,I promised to return his ship without a scratch...I sure hope that old pirate forgives me.,1
-673,HAN,Lando...,1
-674,THREEPIO,They did it!,0
+line,character,dialogue,sentiment,entities
+1,SHUTTLE CAPTAIN,"Command station, this is ST 321. Code Clearance Blue. We're starting our approach. Deactivate the security shield.",-0.4671992007575889,"['ST 321', 'Clearance Blue']"
+2,DEATH STAR CONTROLLER,The security deflector shield will be deactivated when we have confirmation of your code transmission. Stand by... You are clear to proceed.,-0.4614498279553727,[]
+3,SHUTTLE CAPTAIN,We're starting our approach.,-0.21492169257506522,[]
+4,OFFICER,Inform the commander that Lord Vader's shuttle has arrived.,-0.33143526540380375,['Vader']
+5,OPERATOR,"Yes, sir.",0.13560309275436833,[]
+6,JERJERROD,"Lord Vader, this is an unexpected pleasure.  We're honored by your presence.",-0.30444130599004926,[]
+7,VADER,"You may dispense with the pleasantries, Commander. I'm here to put you back on schedule.",0.25385623826578807,[]
+8,JERJERROD,"I assure you, Lord Vader, my men are working as fast as they can.",-0.024702846062341743,['Vader']
+9,VADER,Perhaps I can find new ways to motivate them.,-0.15327747893901522,[]
+10,JERJERROD,"I tell you, this station will be operational as planned.",-0.025257388622627497,[]
+11,VADER,The Emperor does not share your optimistic appraisal of the situation.,-0.03759279948712213,[]
+12,JERJERROD,But he asks the impossible. I need more men.,-0.06409032410191506,[]
+13,VADER,Then perhaps you can tell him when he arrives.,0.1103583012693472,[]
+14,JERJERROD,The Emperor's coming here?,-0.6122276026348581,[]
+15,VADER,"That is correct, Commander. And he is most displeased with your apparent lack of progress.",-0.1642171429606234,[]
+16,JERJERROD,We shall double our efforts.,-0.5145433038582092,[]
+17,VADER,"I hope so, Commander, for your sake. The Emperor is not as forgiving as I am.",0.2902166903237895,[]
+18,THREEPIO,"Of course I'm worried. And you should be, too. Lando Calrissian and poor Chewbacca never returned from this awful place.",-0.2823021615080963,"['Lando Calrissian', 'Chewbacca']"
+19,THREEPIO,"Don't be so sure. If I told you half the things I've heard about this Jabba the Hutt, You'd probably short-circuit.",-0.15981834234427583,"['half', 'Jabba', 'Hutt']"
+20,THREEPIO,"Artoo, are you sure this is the right place? I better knock, I suppose.",0.1125637853093775,['Artoo']
+21,THREEPIO,There doesn't seem to be anyone there. Let's go back and tell Master Luke.,-0.2748976710637121,['Master Luke']
+22,STRANGE VOICE,Tee chuta hhat yudd!,-0.2911098970894901,[]
+23,THREEPIO,Goodness gracious me!,0.6888367823406922,[]
+24,THREEPIO,Artoo Detoowha bo Seethreepiowha ey toota odd mischka Jabba du Hutt.,-0.7894576411002114,"['Detoowha bo', 'Jabba du Hutt']"
+25,THREEPIO,"I don't think they're going to let us in, Artoo. We'd better go.",-0.20511153443773256,['Artoo']
+26,THREEPIO,"Artoo, wait. Oh, dear! Artoo. Artoo, I really don't think we should rush into all this.",-0.31291631094060834,"['Artoo', 'Artoo', 'Artoo']"
+27,THREEPIO,"Oh, Artoo!  Artoo, wait for me!",-0.14479342004843931,"['Artoo', 'Artoo']"
+28,THREEPIO,"Just you deliver Master Luke's message and get us out of here. Oh my! Oh! Oh, no.",-0.06723111354146627,['Luke']
+29,BIB,Die Wanna Wanga!,-0.4119598999498535,[]
+30,THREEPIO,"Oh, my! Die Wanna Wauaga. We -- we bring a message to your master, Jabba the Hutt.",-0.2968652863127965,"['Die Wanna Wauaga', 'Jabba', 'Hutt']"
+31,THREEPIO,"... and a gift.  Gift, what gift?",0.4503835101569209,[]
+32,BIB,Nee Jabba no badda. Me chaade su goodie.,-0.5705836795119943,"['Nee Jabba', 'chaade su']"
+33,THREEPIO,He says that our instructions are to give it only to Jabba himself.,-0.23846408824393195,['Jabba']
+34,THREEPIO,I'm terribly sorry. I'm afraid he's ever so stubborn about these sort of things.,-0.1789635073361593,[]
+35,BIB,Nudd Chaa.,-0.80646973927332,['Nudd Chaa']
+36,THREEPIO,"Artoo, I have a bad feeling about this.",-0.3433021452869167,['Artoo']
+37,THREEPIO,Good morning.,0.23842519648759497,['morning']
+38,JABBA,Bo Shuda!,-0.6821319461475677,['Bo Shuda']
+39,THREEPIO,"The message, Artoo, the message.",-0.4175152560306019,['Artoo']
+40,LUKE,"Greetings, Exalted One. Allow me to introduce myself. I am Luke Skywalker, Jedi Knight and friend to Captain Solo. I know that you are powerful, mighty Jabba, and that your anger with Solo must be equally powerful. I seek an audience with Your Greatness to bargain for Solo's life.  With your wisdom, I'm sure that we can work out an arrangement which will be mutually beneficial and enable us to avoid any unpleasant confrontation. As a token of my goodwill, I present to you a gift: these two droids.",0.04404003937848633,"['One', 'Luke Skywalker', 'Jedi Knight', 'Solo', 'Jabba', 'Solo', 'Solo', 'two']"
+41,THREEPIO,What did he say?,-0.20855150553282176,[]
+42,LUKE,... Both are hardworking and will serve you well.,0.4976480179463878,[]
+43,THREEPIO,"This can't be! Artoo, you're playing the wrong message.",-0.2382700587951867,['Artoo']
+44,JABBA,There will be no bargain.,-0.4419659096526567,[]
+45,THREEPIO,We're doomed.,-0.6805049441101363,[]
+46,JABBA,I will not give up my favorite decoration. I like Captain Solo where he is.,0.20956753883137735,['Solo']
+47,THREEPIO,"Artoo, look! Captain Solo. And he's still frozen in carbonite.",-0.24023330422137112,"['Artoo', 'Solo']"
+48,THREEPIO,What could possibly have come over Master Luke. Is it something I did? He never expressed any unhappiness with my work. Oh! Oh! Hold it! Ohh!,-0.3335764452954575,['Luke']
+49,NINEDENINE,"Ah, good. New acquisitions. You are a protocol droid, are you not?",0.03712338091838485,[]
+50,THREEPIO,"I am See-Threepio, human-cy...",0.03370892102261114,[]
+51,NINEDENINE,Yes or no will do.,-0.6987923022325659,[]
+52,THREEPIO,"Oh. Well, yes.",-0.0835776498125751,[]
+53,NINEDENINE,How many languages do you speak?,-0.4726310694402571,[]
+54,THREEPIO,"I am fluent in over six million forms of communication, and can readily...",-0.30440754953660787,['over six million']
+55,NINEDENINE,Splendid! We have been without an interpreter since our master got angry with our last protocol droid and disintegrated him.,-0.36298819074549593,[]
+56,THREEPIO,Disintegrated?,-0.9857371096622292,[]
+57,NINEDENINE,Guard! This protocol droid might be useful. Fit him with a restraining bolt and take him back to His Excellency's main audience chamber.,-0.17137216737184646,"['Guard', 'droid']"
+58,THREEPIO,"Artoo, don't leave me! Ohhh!",-0.30628240212974145,['Artoo']
+59,NINEDENINE,"You're a feisty little one, but you'll soon learn some respect. I have need for you on the master's Sail Barge. And I think you'll fit in nicely.",0.36419345918745605,['Sail Barge']
+60,JABBA,Da Eitha!,-0.15258666275066557,['Da Eitha']
+61,OOLA,Na Chuba negatorie Na! Na! Natoota...,-0.49123482825012754,"['Na Chuba', 'Natoota']"
+62,JABBA,Boscka!,-0.17674476537791617,['Boscka']
+63,BOUSHH,I have come for the bounty on this Wookiee.,0.21702365676904511,[]
+64,THREEPIO,"Oh, no! Chewbacca!",-0.4439275335190116,['Chewbacca']
+65,JABBA,At last we have the mighty Chewbacca.,-0.5773383336451223,['Chewbacca']
+66,THREEPIO,"Oh, uh, yes, uh, I am here, Your Worshipfulness. Uh... yes!",-0.019677257032320705,['Worshipfulness']
+67,THREEPIO,Oh. The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty- five thousand.,0.011260243934297698,['Jabba']
+68,BOUSHH,I want fifty thousand. No less.,-0.47935271191970696,['fifty thousand']
+69,THREEPIO,"Uh, oh... but what, what did I say?  Uh, the mighty Jabba asks why he must pay fifty thousand.",-0.18620088343844232,"['Jabba', 'fifty thousand']"
+70,THREEPIO,Because he's holding a thermal detonator.,-0.2711721978696511,[]
+71,JABBA,This bounty hunter is my kind of scum. Fearless and inventive.,0.15305647255887167,[]
+72,THREEPIO,Jabba offers the sum of thirty-five. And I suggest you take it.,0.21935625391520475,"['Jabba', 'thirty-five']"
+73,BOUSHH,Zeebuss.,-0.5117454174886562,[]
+74,THREEPIO,He agrees!,0.10124806413250265,[]
+75,BOUSHH,Just relax for a moment. You're free of the carbonite.,0.4297777417778046,[]
+76,BOUSHH,Shhh. You have hibernation sickness.,-0.7524718223357507,[]
+77,HAN,I can't see.,0.2406689089382803,[]
+78,BOUSHH,You eyesight will return in time.,-0.10559537556703202,[]
+79,HAN,Where am I?,-0.104283755547107,[]
+80,BOUSHH,Jabba's palace.,-0.8843509154212073,['Jabba']
+81,HAN,Who are you?,0.10638487199462632,[]
+82,LEIA,Someone who loves you.,0.7045686542305505,[]
+83,HAN,Leia!,-0.20980797056772693,['Leia']
+84,LEIA,I gotta get you out of here.,0.18403220604276904,[]
+85,HAN,What's that? I know that laugh.,0.19630885113962315,[]
+86,HAN,"Hey, Jabba. Look, Jabba, I was just on my way to pay you back, but I got a little sidetracked. It's not my fault.",-0.2297009777832355,"['Jabba', 'Jabba']"
+87,JABBA,"It's too late for that, Solo. You may have been a good smuggler, but now you're Bantha fodder.",-0.13081756443420178,['Bantha']
+88,HAN,Look...,0.4092856418261388,[]
+89,JABBA,Take him away!,-0.13080899426760495,[]
+90,HAN,Jabba... I'll pay you triple! You're throwing away a fortune here. Don't be a fool!,-0.010620069830660883,['Jabba']
+91,JABBA,Bring her to me.,0.0973926116174344,[]
+92,LEIA,We have powerful friends. You're gonna regret this...,0.05182899015200504,[]
+93,JABBA,I'm sure.,0.6582433274401311,[]
+94,LEIA,Ugh!,-0.7457518175877063,[]
+95,THREEPIO,"Ohhh, I can't bear to watch.",-0.14983102088024558,[]
+96,HAN,"Chewie? Chewie, is that you?",0.11902068253781528,"['Chewie', 'Chewie']"
+97,HAN,Ah! Chew--Chewie!,-0.07788120893346573,"['Chew', 'Chewie']"
+98,HAN,"Wait. I can't see, pal. What's goin' on?",0.12226192216079501,[]
+99,HAN,"Luke? Luke's crazy. He can't even take care of himself, much less rescue anybody.",-0.15604207113577928,"['Luke', 'Luke']"
+100,HAN,"A...Jedi Knight? I--I'm out of it for a little while, everybody gets delusions of grandeur.",-0.16576705257544155,['Jedi Knight']
+101,HAN,"I'm all right, pal. I'm all right.",0.6534584921167497,[]
+102,LUKE,I must speak with Jabba.,-0.33772304931100194,['Jabba']
+103,LUKE,You will take me to Jabba now!,-0.21682509254152338,['Jabba']
+104,LUKE,You serve your master well.,0.5256770710064946,[]
+105,LUKE,And you will be rewarded.,0.08445797721652015,[]
+106,THREEPIO,At last! Master Luke's come to rescue me.,-0.23431785477143863,"[""Master Luke's""]"
+107,BIB,Master.,-0.10945930614208832,[]
+108,BIB,"...Luke Skywalker, Jedi Knight.",0.1986245810318632,"['Luke Skywalker', 'Jedi Knight']"
+109,JABBA,I told you not to admit him.,0.23720139210739277,[]
+110,LUKE,I must be allowed to speak.,-0.6356628524625243,[]
+111,BIB,He must be allowed to speak.,-0.734546526380661,[]
+112,JABBA,You weak-minded fool! He's using an old Jedi mind trick.,-0.021887627881772787,['Jedi']
+113,LUKE,You will bring Captain Solo and the Wookiee to me.,0.0798120728817342,['Solo']
+114,JABBA,"Your mind powers will not work on me, boy.",-0.014686314536045852,[]
+115,LUKE,"Nevertheless, I'm taking Captain Solo and his friends. You can either profit by this... or be destroyed! It's your choice. But I warn you not to underestimate my powers.",-0.030465517565175793,['Solo']
+116,THREEPIO,"Master Luke, you're standing on...",0.4180455191765151,['Luke']
+117,JABBA,"There will be no bargain, young Jedi. I shall enjoy watching you die.",0.16646132823113624,['Jedi']
+118,JABBA,Bascka!,-0.17674476537791617,['Bascka']
+119,THREEPIO,"Oh, no! The Rancor!",-0.549472319450097,['Rancor']
+120,JABBA,Bring me Solo and the Wookiee. They will all suffer for this outrage.,-0.2273619365701074,[]
+121,LUKE,Han!,0.6065054159142211,['Han']
+122,HAN,Luke!,0.4424934003111818,['Luke']
+123,LUKE,Are you all right?,0.3200727713255367,[]
+124,HAN,"Fine. Together again, huh?",-0.07865419524992823,[]
+125,LUKE,Wouldn't miss it.,-0.34395465238376355,[]
+126,HAN,How are we doing?,-0.46607239631163333,[]
+127,LUKE,The same as always.,0.28699242486119414,[]
+128,HAN,"That bad, huh? Where's Leia?",-0.47861577630634566,['Leia']
+129,LEIA,I'm here.,0.4751373211599099,[]
+130,THREEPIO,"Oh, dear. His High Exaltedness, the great Jabba the Hutt, has decreed that you are to be terminated immediately.",-0.42841674894712867,"['High Exaltedness', 'Jabba', 'Hutt']"
+131,HAN,"Good, I hate long waits.",0.05538311709600685,[]
+132,THREEPIO,"You will therefore be taken to the Dune Sea and cast into the pit of Carkoon, the nesting place of the all-powerful Sarlacc.",-0.3860658251666347,"['the Dune Sea', 'Carkoon', 'Sarlacc']"
+133,HAN,Doesn't sound so bad.,-0.7042057434561371,[]
+134,THREEPIO,"In his belly, you will find a new definition of pain and suffering, as you are slowly digested over a thousand years.",-0.25154195609879704,['a thousand years']
+135,HAN,"On second thought, let's pass on that, huh?",-0.04055487299282445,['second']
+136,LUKE,"You should have bargained, Jabba. That's the last mistake you'll ever make.",-0.05798667477607844,['Jabba']
+137,HAN,"I think my eyes are getting better. Instead of a big dark blur, I see a big light blur.",-0.17349450850059323,[]
+138,LUKE,"There's nothing to see. I used to live here, you know.",-0.07046421686145132,[]
+139,HAN,"You're gonna die here, you know. Convenient.",0.42088894552222444,[]
+140,LUKE,Just stick close to Chewie and Lando. I've taken care of everything.,0.19006841135032948,"['Chewie', 'Lando']"
+141,HAN,Oh... great!,0.48277947604273264,[]
+142,JABBA,Soon you will learn to appreciate me.,0.08196288312334943,[]
+143,THREEPIO,"Oh, I'm terribly sor... Artoo! What are you doing here?",-0.07218963792915067,['Artoo']
+144,THREEPIO,"Well, I can see you're serving drinks, but this place is dangerous. They're going to execute Master Luke and, if we're not careful, us too!",0.0,['Luke']
+145,THREEPIO,Hmm.  I wish I had your confidence.,0.10221178529791342,[]
+146,THREEPIO,"Victims of the almighty Sarlacc: His Excellency hopes that you will die honorably. But should any of you wish to beg for mercy, the great Jabba the Hutt will now listen to your pleas.",-0.1259278188794657,"['Sarlacc', 'Jabba', 'Hutt']"
+147,HAN,"Threepio, you tell that slimy piece of... worm-ridden filth he'll get no such pleasure from us. Right?",-0.1786650269598784,['Threepio']
+148,LUKE,Jabba! This is your last chance. Free us or die.,-0.31318171526978533,['Jabba']
+149,JABBA,Move him into position.,-0.3616195706629679,[]
+150,JABBA,Put him in.,0.024559956078055167,[]
+151,LUKE,"Easy, Chewie.",0.38889704687959714,['Chewie']
+152,LANDO,Whoa! Whoa! Help!,-0.40497068868246644,[]
+153,HAN,"Chewie, you okay? Where is he?",-0.0764862977818237,['Chewie']
+154,HAN,"I'm okay, pal.",0.5461123137991857,[]
+155,LANDO,Han! Chewie?,0.23021163842771886,"['Han', 'Chewie']"
+156,HAN,Lando!,-0.03659644558798614,['Lando']
+157,HAN,Boba Fett?! Boba Fett?! Where?,-0.4335645243576638,"['Boba Fett', 'Boba Fett']"
+158,HAN,"Lando, grab it!",0.03106107920211243,['Lando']
+159,LANDO,Lower it!,-0.4421805858422885,[]
+160,HAN,I'm trying!,0.3766692178869122,[]
+161,HAN,"Whoa! Whoa! Grab me, Chewie! I'm slipping.",-0.041566164795004745,"['Grab', 'Chewie']"
+162,HAN,Grab it! L--Lando. Grab!,-0.0330047357865324,['Lando']
+163,HAN,Grab it! Almost... You almost got it!,-0.14105117846484538,[]
+164,LANDO,Hold it! Whoa!,-0.2811999043000053,[]
+165,HAN,"Gently now. All... all right. Now easy, easy. Hold me, Chewie.",0.09575813964541124,['Chewie']
+166,HAN,"Chewie! Chewie, give me the gun. Don't move, Lando.",0.20940602308841028,"['Chewie', 'Chewie', 'Lando']"
+167,LANDO,"No, wait! I thought you were blind!",-0.01083028706268685,[]
+168,HAN,It's all right. Trust me. Don't move.,-0.1402493716157347,[]
+169,LANDO,All right! A little higher! Just a little higher!,-0.11334120201937203,[]
+170,HAN,"Chewie, Pull us up! Come on! Okay... up, Chewie, up!",0.021644274149386078,"['Chewie', 'Chewie']"
+171,LEIA,Come on. We gotta get out of here quick.,-0.10680936285926257,[]
+172,THREEPIO,"Not my eyes! Artoo, help! Quickly, Artoo. Oh! Ohhh! You beast!",-0.30435959431766024,"['Artoo', 'Artoo']"
+173,LUKE,Get the gun! Point it at the deck!,0.08676064126581906,[]
+174,LUKE,Point it at the deck!,-0.23941897693242598,[]
+175,THREEPIO,"Artoo, where are we going? I couldn't possibly jump.",-0.7106516077264253,['Artoo']
+176,LUKE,Come on!,0.2933809754476113,[]
+177,LUKE,Let's go! And don't forget the droids.,0.10074556823185832,[]
+178,LANDO,We're on our way.,0.08125474661079046,[]
+179,HAN,I don't know. All I can see is a lot of blowing sand!,-0.10256368751498401,[]
+180,LEIA,That's all any of us can see.,0.18452983690100688,[]
+181,HAN,Then I guess I'm getting better.,0.45720499284218086,[]
+182,HAN,"I've got to hand it to you, kid, you were pretty good out there.",0.15089096674861802,[]
+183,LUKE,I had a lot of help. Think nothing of it.,-0.15558861135416246,[]
+184,HAN,"No, I'm thinking a lot about it. That carbon freeze was the closest thing to dead there is. And it wasn't just sleepin'. It was a big wide awake nothing!",-0.49366753346396264,[]
+185,LUKE,I'll see you back at the fleet.,0.5291571326720657,[]
+186,HAN,Why don't you leave that crate and come with us?,0.18274238649409158,[]
+187,LUKE,I have a promise I have to keep first... to an old friend.,0.11822829559069836,['first']
+188,HAN,"Guess I owe you some thanks, too, Lando.",0.3528001500356539,['Lando']
+189,LANDO,"Figured if I left you frozen like that you'd just give me bad luck the rest of my life, so I might as well get you unfrozen sooner or later.",0.13494675657048427,[]
+190,LEIA,"He means ""You're welcome.""",0.06543701408557312,[]
+191,LANDO,"Come on, let's get off this miserable dust ball.",-0.5399297036561357,[]
+192,LUKE,I'll meet you back at the fleet.,0.5249949443288022,[]
+193,LEIA,Hurry. The Alliance should be assembled by now.,-0.5383836763067529,['Alliance']
+194,LUKE,I will.,0.05886459257278864,[]
+195,HAN,"Hey, Luke, thanks. Thanks for comin' after me. Now I owe you one.",0.4184481524745105,['Luke']
+196,LUKE,"That's right, Artoo. We're going to the  Dagobah system. I have a promise to keep...  to an old friend.",-0.2419291010293596,['Artoo']
+197,EMPEROR,"Rise, my friend.",0.15008794078273158,[]
+198,VADER,The Death Star will be completed on schedule.,-0.3661564472888663,['The Death Star']
+199,EMPEROR,"You have done well, Lord Vader. And now I sense you wish to continue your search for young Skywalker.",0.17590457347905963,"['Vader', 'Skywalker']"
+200,VADER,"Yes, my Master.",0.22991219134736673,[]
+201,EMPEROR,"Patience, my friend. In time he will seek you out. And when he does, you must bring him before me. He has grown strong. Only together can we turn him to the dark side of the Force.",-0.06952140912571814,['Force']
+202,VADER,As you wish.,0.5588104656011867,[]
+203,EMPEROR,Everything is proceeding as I have foreseen.,-0.518504701164068,[]
+204,YODA,Hmm. That face you make. Look I so old to young eyes?,-0.15111788189275477,[]
+205,LUKE,No... of course not.,-0.21653177191324402,[]
+206,YODA,"I do, yes, I do!  Sick have I become. Old and weak.  When nine hundred years old you reach, look as good you will not. Hmm?",-0.17652259857404884,['nine hundred years old']
+207,YODA,"Soon will I rest. Yes, forever sleep. Earned it, I have.",-0.2186865293006175,[]
+208,LUKE,"Master Yoda, you can't die.",0.0,['Yoda']
+209,YODA,Strong am I with the Force... but not that strong! Twilight is upon me and soon night must fall. That is the way of things ... the way of the Force.,0.0,"['Twilight', 'night', 'Force']"
+210,LUKE,But I need your help. I've come back to complete the training.,0.2223063885271992,[]
+211,YODA,No more training do you require. Already know you that which you need.,-0.01769325022324142,[]
+212,LUKE,Then I am a Jedi?,0.13565653141427303,['Jedi']
+213,YODA,"Ohhh. Not yet. One thing remains: Vader. You must confront Vader. Then, only then, a Jedi will you be. And confront him you will.",-0.18466736801912087,"['One', 'Vader', 'Jedi']"
+214,LUKE,Master Yoda... is Darth Vader my father?,-0.372928916104577,"['Yoda', 'Darth Vader']"
+215,YODA,Mmm... rest I need. Yes... rest.,-0.04520282409122478,[]
+216,LUKE,"Yoda, I must know.",0.12383490996433566,['Yoda']
+217,YODA,Your father he is.,0.07602830410076256,[]
+218,YODA,"Told you, did he?",0.11195578534149697,[]
+219,LUKE,Yes.,-0.23353076685601293,[]
+220,YODA,"Unexpected this is, and unfortunate..",-0.48967747644685944,[]
+221,LUKE,Unfortunate that I know the truth?,0.1163836288685034,[]
+222,YODA,No. Unfortunate that you rushed to face him... that incomplete was your training. Not ready for the burden were you.,-0.2988026258779257,[]
+223,LUKE,"Well, I'm sorry.",0.3960383546332067,[]
+224,YODA,"Remember, a Jedi's strength flows from the Force.  But beware.  Anger, fear, aggression. The dark side are they.  Once you start down the dark path, forever will it dominate your destiny.",-0.5259184551344274,"['Jedi', 'Force']"
+225,YODA,"Luke...Luke...Do not...Do not underestimate the powers of the Emperor, or suffer your father's fate, you will. Luke, when gone am I , the last of the Jedi will you be. Luke, the Force runs strong in your family. Pass on what you have learned, Luke...  There is... another...Sky...Sky...walker.",-0.06771742170421158,"['Luke...', 'Luke', 'Jedi', 'Luke', 'Force', 'Luke']"
+226,LUKE,"I can't do it, Artoo. I can't go on alone.",-0.25382681806262863,['Artoo']
+227,BEN,Yoda will always be with you.,0.14778345717669028,['Yoda']
+228,LUKE,Obi-Wan! Why didn't you tell me?,0.22433230606503196,['Obi-Wan']
+229,LUKE,You told me Vader betrayed and murdered my father.,0.1155040362269697,['Vader']
+230,BEN,"You father was seduced by the dark side of the Force. He ceased to be Anakin Skywalker and became Darth Vader. When that happened, the good man who was your father was destroyed. So what I have told you was true... from a certain point of view.",-0.13501609567627315,"['Force', 'Anakin Skywalker', 'Darth Vader']"
+231,LUKE,A certain point of view!,0.29040407027500437,[]
+232,BEN,"Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view.",-0.04947984838764885,['Luke']
+233,BEN,"I don't blame you for being angry. If I was wrong in what I did, it certainly wouldn't have been for the first time. You see, what happened to your father was my fault.",-0.05579736077381403,['first']
+234,BEN,Anakin was a good friend.,0.5595030576426363,[]
+235,BEN,"When I first knew him, your father was already a great pilot. But I was amazed how strongly the Force was with him.  I took it upon myself to train him as a Jedi.  I thought that I could instruct him just as well as Yoda.  I was wrong.  My pride has had terrible consequences for the galaxy.",-0.09668055494887828,"['first', 'Force', 'Jedi', 'Yoda']"
+236,LUKE,There's still good in him.,-0.06290274249234207,[]
+237,BEN,I also thought he could be turned back to the good side. It couldn't be done. He is more machine now than man. Twisted and evil.,-0.408659525527987,[]
+238,LUKE,"I can't do it, Ben.",-0.029037124360699496,['Ben']
+239,BEN,You cannot escape your destiny.,-0.26948274953807405,[]
+240,LUKE,I tried to stop him once. I couldn't do it.,-0.38037489021586457,[]
+241,BEN,"Vader humbled you when first you met him, Luke...but that experience was part of your training. It taught you, among other things, the value of patience.  Had you not been so impatient to defeat Vader then, you could have finished your training here with Yoda. You would have been prepared.",0.0,"['Vader', 'first', 'Luke', 'Vader', 'Yoda']"
+242,LUKE,But I had to help my friends.,-0.04119225214959066,[]
+243,BEN,"And did you help them? It was they who had to save you. You achieved little by rushing back prematurely, I fear.",-0.44216387754087383,[]
+244,LUKE,I found out Darth Vader was my father.,-0.37725892972533437,['Darth Vader']
+245,BEN,"To be a Jedi, Luke, you must confront and then go beyond the dark side - the side your father couldn't get past. Impatience is the easiest door - for you, like your father. Only, your father was seduced by what he found on the other side of the door, and you have held firm. You're no longer so reckless now, Luke. You are strong and patient. And now, you must face Darth Vader again!",-0.06533460864276863,"['Jedi, Luke', 'Luke', 'Darth Vader']"
+246,LUKE,I can't kill my own father.,0.1968999555017934,[]
+247,BEN,Then the Emperor has already won. You were our only hope.,-0.2664397274918533,[]
+248,LUKE,Yoda spoke of another.,-0.23891812094540454,['Yoda']
+249,BEN,The other he spoke of is your twin sister.,0.26126940336054005,[]
+250,LUKE,But I have no sister.,-0.15010110104429164,[]
+251,BEN,"Hmm. To protect you both from the Emperor, you were hidden from your father when you were born. The Emperor knew, as I did, if Anakin were to have any offspring, they would be a threat to him. That is the reason why your sister remains safely anonymous.",-0.2167668537698726,['Anakin']
+252,LUKE,Leia! Leia's my sister.,-0.031667679526931725,['Leia']
+253,BEN,"Your insight serves you well. Bury your feelings deep down, Luke. They do you credit. But they could be made to serve the Emperor.",-0.2965837978993138,['Luke']
+254,BEN,"When your father left, he didn't know your mother was pregnant. Your mother and I knew he would find out eventually, but we wanted to keep you both as safe as possible, for as long as possible.  So I took you to live with my brother Owen on Tatooine... and your mother took Leia to live as the daughter of Senator Organa, on Alderaan.",0.07710602960101509,"['Owen', 'Tatooine', 'Leia', 'Organa', 'Alderaan']"
+255,BEN,"The Organa household was high-born and politically quite powerful in that system. Leia became a princess by virtue of lineage... no one knew she'd been adopted, of course. But it was a title without real power, since Alderaan had long been a democracy.  Even so, the family continued to be politically powerful, and Leia, following in her foster father's path, became a senator as well.  That's not all she became, of course... she became the leader of her cell in the Alliance against the corrupt Empire. And because she had diplomatic immunity, she was a vital link for getting information to the Rebel cause.  That's what she was doing when her path crossed yours... for her foster parents had always told her to contact me on Tatooine, if her troubles became desperate.",-0.31086305727141217,"['Organa', 'Leia', 'Alderaan', 'Leia', 'Alliance', 'Empire', 'Rebel', 'Tatooine']"
+256,LUKE,"But you can't let her get involved now, Ben. Vader will destroy her.",-0.10780619197420127,"['Ben', 'Vader']"
+257,BEN,"She hasn't been trained in the ways of the Jedi the way you have, Luke ... but the Force is strong with her, as it is with all of your family. There is no avoiding the battle. You must face and destroy Vader!",0.014689175898996654,"['Jedi', 'Luke', 'Force', 'Vader']"
+258,HAN,"Well, look at you, a general, huh?",0.1329899019096108,[]
+259,LANDO,"Oh, well, someone must have told them about my little maneuver at the battle of Taanab.",-0.028923132467128854,['Taanab']
+260,HAN,"Well, don't look at me, pal. I just said you were a fair pilot. I didn't know they were lookin' for somebody to lead this crazy attack.",-0.0892481739109432,[]
+261,LANDO,I'm surprised they didn't ask you to do it.,0.0,[]
+262,HAN,"Well, who says they didn't.  But I ain't crazy. You're the respectable one, remember?",0.1690733922747234,[]
+263,MON MOTHMA,The Emperor has made a critical error and the time for our attack has come.,-0.3261353868171204,[]
+264,MON MOTHMA,"The data brought to us by the Bothan spies pinpoints the exact location of the Emperor's new battle station. We also know that the weapon systems of this Death Star are not yet operational. With the Imperial Fleet spread throughout the galaxy in a vain effort to engage us, it is relatively unprotected. But most important of all, we've learned that the Emperor himself is personally overseeing the final stages of the construction of this Death Star.",-0.1854251874396784,['Bothan']
+265,MON MOTHMA,"Many Bothans died to bring us this information. Admiral Ackbar, please.",-0.38956597525293457,"['Bothans', 'Ackbar']"
+266,ACKBAR,"You can see here the Death Star orbiting the forest Moon of Endor. Although the weapon systems on this Death Star are not yet operational, the Death Star does have a strong defense mechanism. It is protected by an energy shield, which is generated from the nearby forest Moon of Endor. The shield must be deactivated if any attack is to be attempted. Once the shield is down, our cruisers will create a perimeter, while the fighters fly into the superstructure and attempt to knock out the main reactor.",-0.4945071435362818,"['Moon', 'the Death Star', 'Moon', 'Endor']"
+267,ACKBAR,General Calrissian has volunteered to lead the fighter attack,-0.504851683024933,['Calrissian']
+268,HAN,Good luck.,0.7442699751170345,[]
+269,HAN,You're gonna need it.,0.01784724898202894,[]
+270,ACKBAR,General Madine.,-0.5147840824234269,['Madine']
+271,GENERAL MADINE,"We have stolen a small Imperial shuttle. Disguised as a cargo ship, and using a secret Imperial code, a strike team will land on the moon and deactivate the shield generator.",-0.4167256379226685,"['Imperial', 'Imperial']"
+272,THREEPIO,Sounds dangerous.,-0.9525112335805463,[]
+273,LEIA,I wonder who they found to pull that off.,-0.27375976952923176,[]
+274,GENERAL MADINE,"General Solo, is your strike team assembled?",-0.1959889061079847,['Solo']
+275,HAN,"Uh, my team's ready. I don't have a command crew for the shuttle.",0.0,[]
+276,HAN,"Well, it's gonna be rough, pal. I didn't want to speak for you.",-0.08860805541824668,[]
+277,HAN,That's one.,0.24296924150103805,[]
+278,LEIA,"Uh, General... count me in.",-0.13730186073646555,[]
+279,VOICE,"I'm with you, too!",0.6073896515547619,[]
+280,LEIA,What is it?,-0.3758638275745827,[]
+281,LUKE,Ask me again sometime.,-0.13081769444058056,[]
+282,HAN,Luke.,0.08946933141520597,['Luke']
+283,LUKE,"Hi, Han... Chewie.",0.45817902213664574,"['Han', 'Chewie']"
+284,THREEPIO,"""Exciting"" is hardly the word I would use.",-0.2329715518141442,[]
+285,HAN,Look. I want you to take her. I mean it. Take her. You need all the help you can get. She's the fastest ship in the fleet.,0.3000779930795552,[]
+286,LANDO,"All right, old buddy. You know, I know what she means to you. I'll take good care of her. She-she won't get a scratch. All right?",0.42367891745649167,[]
+287,HAN,Right. I got your promise now. Not a scratch.,-0.03873408613268925,[]
+288,LANDO,"Look, would you get going, you pirate.",0.14284823179469397,[]
+289,LANDO,Good luck.,0.7442699751170345,[]
+290,HAN,"You, too.",0.06651216578375108,[]
+291,HAN,You got her warmed?,-0.1106112555880876,[]
+292,LUKE,"Yeah, she's comin' up.",-0.29425255134406436,[]
+293,HAN,"No. I don't think the Empire had Wookiees in mind when they designed her, Chewie.",-0.1816561457701098,"['Empire', 'Wookiees', 'Chewie']"
+294,LEIA,"Hey, are you awake?",-0.3213591884053395,[]
+295,HAN,"Yeah, I just got a funny feeling. Like I'm not gonna see her again.",0.2101866082310322,[]
+296,LEIA,"Come on, General, let's move.",-0.15595982409302311,[]
+297,HAN,"Right. Chewie, let's see what this piece of junk can do. Ready, everybody?",0.10130327140041895,['Chewie']
+298,LUKE,All set.,0.08532911937283316,[]
+299,THREEPIO,Here we go again.,-0.357256724004021,[]
+300,HAN,"All right, hang on.",0.44229651534318615,[]
+301,VADER,"What is thy bidding, my Master?",-0.14352736820466894,[]
+302,EMPEROR,Send the fleet to the far side of Endor. There it will stay until called for.,-0.17865741479755815,['Endor']
+303,VADER,What of the reports of the Rebel fleet massing near Sullust?,-0.10558335061980362,"['Rebel', 'Sullust']"
+304,EMPEROR,"It is of no concern. Soon the Rebellion will be crushed and young Skywalker will be one of us! Your work here is finished, my friend. Go out to the command ship and await my orders.",-0.039751454621447024,"['Rebellion', 'Skywalker', 'one']"
+305,VADER,"Yes, my Master.",0.22991219134736673,[]
+306,HAN,"If they don't go for this, we're gonna have to get outta here pretty quick, Chewie.",-0.1127038005555272,['Chewie']
+307,CONTROLLER,We have you on our screen now. Please identify.,-0.08401165957684076,[]
+308,HAN,Shuttle Tydirium requesting deactivation of the deflector shield.,-0.5394990581709194,['Shuttle Tydirium']
+309,CONTROLLER,"Shuttle Tydirium, transmit the clearance code for shield passage.",-0.5962745833295315,['Shuttle Tydirium']
+310,HAN,Transmission commencing.,-0.8407514666820355,[]
+311,LEIA,Now we find out if that code is worth the price we paid.,-0.011093530234169258,[]
+312,HAN,It'll work. It'll work.,0.11071182719333894,[]
+313,LUKE,Vader's on that ship.,-0.2115210216709047,['Vader']
+314,HAN,"Now don't get jittery, Luke. There are a lot of command ships. Keep your distance though, Chewie, but don't look like you're trying to keep your distance.",-0.092310206049806,"['Luke', 'Chewie']"
+315,HAN,I don't know.  Fly casual.,0.14431930804921667,[]
+316,LUKE,I'm endangering the mission. I shouldn't have come.,0.022424116066887212,[]
+317,HAN,"It's your imagination, kid. Come on. Let's keep a little optimism here.",-0.11069997670070464,[]
+318,VADER,Where is that shuttle going?,-0.5340799086734342,[]
+319,PIETT,"Shuttle Tydirium, what is your cargo and destination?",0.10294264421957533,['Shuttle Tydirium']
+320,PILOT VOICE,Parts and technical crew for the forest moon.,-0.5666776649683936,[]
+321,VADER,Do they have a code clearance?,-0.7796729752817522,[]
+322,PIETT,"It's an older code, sir, but it checks out. I was about to clear them.",-0.20433706004344643,[]
+323,PIETT,Shall I hold them?,-0.27476429772737143,[]
+324,VADER,No. Leave them to me. I will deal with them myself.,-0.14465103513524435,[]
+325,PIETT,"As you wish, my lord.  Carry on.",0.2932211633789441,[]
+326,HAN,"They're not goin' for it, Chewie.",-0.01302204834985532,['Chewie']
+327,CONTROLLER,"Shuttle Tydirium, deactivation of the shield will commence immediately. Follow your present course.",-0.31297975554605784,['Shuttle Tydirium']
+328,HAN,Okay! I told you it was gonna work. No problem.,-0.13407881703475555,[]
+329,THREEPIO,"Oh, I told you it was dangerous here.",-0.20473908939491148,[]
+330,LEIA,Shall we try and go around?,-0.5879225812772861,[]
+331,HAN,It'll take time. This whole party'll be for nothing if they see us.,0.06373201652315053,[]
+332,HAN,Chewie and I will take care of this. You stay here.,0.47174523146710734,['Chewie']
+333,LUKE,"Quietly, there might be more of them out there.",-0.5508317631695077,[]
+334,HAN,Hey... it's me.,-0.08453817367263561,[]
+335,SCOUT #1,Go for help! Go!,0.13007704328120617,[]
+336,LUKE,Great. Come on.,0.36553202998758905,[]
+337,LEIA,Over there! Two more of them!,0.0449680582751113,['Two']
+338,LUKE,"I see them. Wait, Leia!",0.31307009588653845,['Leia']
+339,LUKE,Quick! Jam their comlink. Center switch!,-0.47722872465301314,['Jam']
+340,HAN,"Hey, wait! Ahhh!",0.2627816514773773,[]
+341,LUKE,Move closer!,-0.6503361975063979,[]
+342,LUKE,Get alongside that one!,0.4607694492963723,[]
+343,LUKE,Get him!,0.2891434477453474,[]
+344,LUKE,Keep on that one! I'll take these two!,0.6725522432782685,['two']
+345,THREEPIO,"Oh, General Solo, somebody's coming. Oh!",-0.2882050519499042,['Solo']
+346,HAN,Luke! Where's Leia?,-0.366027218395671,"['Luke', 'Leia']"
+347,LUKE,What? She didn't come back?,-0.2899793863969635,[]
+348,HAN,I thought she was with you.,0.3530509287742416,[]
+349,LUKE,We got separated.,-0.6254619891698749,[]
+350,LUKE,"Hey, we better go look for her.",0.3888850329122442,[]
+351,HAN,Take the squad ahead.  We'll meet at the shield generator at 0300.,-0.3655138337430224,['0300']
+352,LUKE,"Come on, Artoo.  We'll need your scanners.",0.0,['Artoo']
+353,THREEPIO,"Don't worry, Master Luke.  We know what to do.",-0.17759909469046065,['Luke']
+354,THREEPIO,And you said it was pretty here. Ugh!,-0.23852906019514064,[]
+355,LEIA,Cut it out!,-0.5157566805326272,[]
+356,LEIA,I'm not gonna hurt you.,0.15326413013283968,[]
+357,LEIA,"Well, looks like I'm stuck here. Trouble is, I don't know where here is.",-0.0264781727434924,[]
+358,LEIA,"Well, maybe you can help me. Come on, sit down.",-0.04940460210852926,[]
+359,LEIA,I promise I won't hurt you. Now come here.,0.0,[]
+360,LEIA,All right. You want something to eat?,0.043128115579433635,[]
+361,LEIA,That's right. Come on. Hmmm?,-0.1784157753383384,[]
+362,LEIA,"Look, it's a hat. It's not gonna hurt you. Look. You're a jittery little thing, aren't you?",-0.13477654700963915,[]
+363,LEIA,What is it?,-0.3758638275745827,[]
+364,SCOUT #l,"Freeze!  Come on, get up!",-0.2632757225136564,[]
+365,SCOUT #1,Go get your ride and take her back to base.,0.19447466102828725,[]
+366,SCOUT #2,"Yes, sir.",0.13560309275436833,[]
+367,LEIA,"Come on, let's get outta here.",-0.029274345191735218,[]
+368,GUARD,Halt! The Emperor does not wish to be disturbed at the moment.,-0.6641760329539761,[]
+369,VADER,"The Emperor will see me, now!",-0.05475483464938935,[]
+370,GUARD,"The Emperor will see you, now.",0.0,[]
+371,EMPEROR,I told you to remain on the command ship.,0.09250278022268965,[]
+372,VADER,A small Rebel force has penetrated the shield and landed on Endor.,-0.3224670954217579,"['Rebel', 'Endor']"
+373,EMPEROR,"Yes, I know.",0.3827535235181725,[]
+374,VADER,My son is with them.,0.4307828686927231,[]
+375,EMPEROR,Are you sure?,0.19703106545472737,[]
+376,VADER,"I have felt him, my Master.",0.09817305857776915,[]
+377,EMPEROR,"Strange, that I have not. I wonder if your feelings on this matter are clear, Lord Vader.",-0.23906707225178048,[]
+378,VADER,"They are clear, my Master.",-0.13196417272087668,[]
+379,EMPEROR,Then you must go to the Sanctuary Moon and wait for them.,-0.12587216638461984,['the Sanctuary Moon']
+380,VADER,He will come to me?,-0.4488860012260494,[]
+381,EMPEROR,I have foreseen it. His compassion for you will be his undoing. He will come to you and then you will bring him before me.,-0.05124467361242657,[]
+382,VADER,As you wish.,0.5588104656011867,[]
+383,HAN,Luke! Luke!,0.4424934145405446,"['Luke', 'Luke']"
+384,THREEPIO,"Oh, Master Luke.",-0.0113190122918565,['Master Luke']
+385,LUKE,There's two more wrecked speeders back there. And I found this.,-0.2480817193618967,['two']
+386,THREEPIO,I'm afraid that Artoo's sensors can find no trace of Princess Leia.,-0.5771571909382056,"['Artoo', 'Leia']"
+387,HAN,I hope she's alright.,0.28429309874839825,[]
+388,HAN,"What, Chewie? What? Chewie!",0.22761316489345695,"['Chewie', 'Chewie']"
+389,HAN,"Hey, I don't get it.",-0.019451656617477164,[]
+390,HAN,"Nah, it's just a dead animal, Chewie.",-0.49839390251761784,"['Nah', 'Chewie']"
+391,LUKE,"Chewie, wa-wait!  Don't!",-0.07063813353161064,['Chewie']
+392,HAN,"Nice work. Great, Chewie! Great! Always thinking with your stomach.",0.6013018426142425,['Chewie']
+393,LUKE,"Will you take it easy? Let's just figure out a way to get out of this thing.  Han, can you reach my lightsaber?",-0.058762372408079466,['Han']
+394,HAN,"Yeah, sure.",0.34537522552212785,[]
+395,THREEPIO,"Artoo, I'm not sure that's such a good idea. It's a very long dro-o-op!!",0.07420453201285193,['Artoo']
+396,HAN,Wha--?  Hey!  Point that thing someplace else.,-0.39632926010317804,[]
+397,HAN,Hey!,0.38677078919948493,[]
+398,LUKE,"Han, don't. It'll be all right.",0.09966954256666805,['Han']
+399,LUKE,"Chewie, give 'em your crossbow.",0.6307858757187295,['Chewie']
+400,THREEPIO,"Oh, my head. Oh, my goodness!",0.13010425032966277,[]
+401,LUKE,Do you understand anything they're saying?,-0.1718226087855781,[]
+402,THREEPIO,"Oh, yes, Master Luke!  Remember that I am fluent in over six million forms of communication.",-0.1778499913992515,"['Luke', 'over six million']"
+403,HAN,What are you telling them?,0.2946648653371067,[]
+404,THREEPIO,"Hello, I think... I could be mistaken. They're using a very primitive dialect.  But I do believe they think I am some sort of god.",-0.22132801026380622,[]
+405,HAN,"Well, why don't you use your divine influence and get us out of this?",0.035004451981477835,[]
+406,THREEPIO,"I beg your pardon, General Solo, but that just wouldn't be proper.",-0.06842746663596744,['Solo']
+407,HAN,Proper?!,-0.5180883676150123,[]
+408,THREEPIO,It's against my programming to impersonate a deity.,-0.608048359469396,[]
+409,HAN,"Why, you--",0.08511183346941387,[]
+410,HAN,My mistake. He's an old friend of mine.,0.10563791383648269,[]
+411,HAN,I have a really bad feeling about this.,-0.16258748437851556,[]
+412,HAN,What did he say?,-0.20855150553282176,[]
+413,THREEPIO,"I'm rather embarrassed, General Solo, but it appears you are to be the main course at a banquet in my honor.",-0.15879771880993898,['Solo']
+414,HAN and LUKE,Leia!,-0.20980797056772693,['Leia']
+415,LEIA,Oh!,-0.13071605440744327,[]
+416,THREEPIO,Your Royal Highness.,-0.42053988002396525,[]
+417,LEIA,"But these are my friends. Threepio, tell them they must be set free.",0.02456481003396216,['Threepio']
+418,HAN,"Somehow, I got the feeling that didn't help us very much.",-0.2223736460771597,[]
+419,LUKE,"Threepio, tell them if they don't do as you wish, you'll become angry and use your magic.",0.04742335127536701,['Threepio']
+420,THREEPIO,"But Master Luke, what magic? couldn't possibly --",-0.5619416851332606,['Luke']
+421,LUKE,Just tell them.,0.1711284691900805,[]
+422,THREEPIO,"You see, Master Luke; they didn't believe me. Just...",0.12814448450722926,['Luke']
+423,THREEPIO,"... as I said they wouldn't. Wha-wha-what's happening! Oh! Oh, dear! Oh!",-0.20654355523134815,[]
+424,THREEPIO,"Put me down! He-e-elp! Master Luke! Artoo! Somebody, somebody, help! Master Luke, Artoo! Artoo, quickly! Do something, somebody! Oh! Ohhh!",-0.22904542998111066,"['Luke', 'Artoo', 'Luke', 'Artoo', 'Artoo']"
+425,THREEPIO,"Oh, oh, oh, oh! Thank goodness.",0.16374799935111128,[]
+426,LUKE,"Thanks, Threepio.",0.29227493068570376,['Threepio']
+427,THREEPIO,I...I never knew I had it in me.,0.09811018876710342,[]
+428,THREEPIO,"Yes, Artoo. I was just coming to that.",-0.4763335401222255,['Artoo']
+429,HAN,What's going on?,-0.3179373550320377,[]
+430,LEIA,I don't know.,0.1585479620574788,[]
+431,THREEPIO,Wonderful! We are now a part of the tribe.,-0.1526844472622233,[]
+432,HAN,Just what I always wanted.,0.3667859607687376,[]
+433,HAN,"Well, short help is better than no help at all, Chewie.  Thank you. Okay.",0.09124171037702444,['Chewie']
+434,THREEPIO,He says the scouts are going to show us the quickest way to the shield generator.,-0.3175895148911001,[]
+435,HAN,"Good. How far is it? Ask him. We need some fresh supplies, too. And try and get our weapons back.",0.0,[]
+436,HAN,"And hurry up, will ya? I haven't got all day.",-0.15305335901948003,['all day']
+437,LUKE,"Luke, what's wrong?",-0.1236363810326051,['Luke']
+438,LUKE,Leia... do you remember your mother? Your real mother?,0.2377326591741522,['Leia']
+439,LEIA,Just a little bit. She died when I was very young.,-0.3200895627850264,[]
+440,LUKE,What do you remember?,0.3161821401293392,[]
+441,LEIA,"Just...images, really. Feelings.",-0.09761190326110802,[]
+442,LUKE,Tell me.,0.4529770110221576,[]
+443,LEIA,"She was very beautiful. Kind, but...sad.  Why are you asking me all this?",0.0,[]
+444,LUKE,I have no memory of my mother. I never knew her.,0.11765968970163132,[]
+445,LEIA,"Luke, tell me. What's troubling you?",0.10029312125471823,['Luke']
+446,LUKE,"Vader is here...now, on this moon.",-0.3597550550781181,['Vader']
+447,LEIA,How do you know?,0.226181393300797,[]
+448,LUKE,"I felt his presence. He's come for me. He can feel when I'm near. That's why I have to go.  As long as I stay, I'm endangering the group and our mission here.  I have to face him.",-0.04552650434011074,[]
+449,LEIA,Why?,-0.3021746617613401,[]
+450,LUKE,He's my father.,0.02076984138734983,[]
+451,LEIA,Your father?,0.03193923920156028,[]
+452,LUKE,"There's more. It won't be easy for you to hear it, but you must. If I don't make it back, you're the only hope for the Alliance.",0.036198630898865325,['Alliance']
+453,LEIA,"Luke, don't talk that way. You have a power I--I don't understand and could never have.",-0.13886772050529128,['Luke']
+454,LUKE,"You're wrong, Leia. You have that power too. In time you'll learn to use it as I have. The Force is strong in my family. My father has it...I have it...and...my sister has it.",0.034103183970832784,"['Leia', 'Force']"
+455,LUKE,Yes. It's you Leia.,-0.17682127795992764,['Leia']
+456,LEIA,I know. Somehow...I've always known.,-0.2060182755531046,[]
+457,LUKE,Then you know why I have to face him.,0.14341076823801147,[]
+458,LEIA,"No! Luke, run away, far away. If he can feel your presence, then leave this place. I wish I could go with you.",-0.14756306247189865,['Luke']
+459,LUKE,"No, you don't. You've always been strong.",-0.07070209607957878,[]
+460,LEIA,"But, why must you confront him?",-0.010279429040600307,[]
+461,LUKE,Because...there is good in him. I've felt it. He won't turn me over to the Emperor. I can save him. I can turn him back to the good side. I have to try.,-0.12962425202666528,[]
+462,HAN,"Hey, what's goin' on?",-0.0656652364140915,[]
+463,LEIA,Nothing. I - just want to be alone for a little while.,-0.21638935488272137,[]
+464,HAN,"Nothing?  Come on, tell me.  What's goin' on?",-0.18557751461721983,[]
+465,LEIA,I...I can't tell you.,0.5271823102543809,[]
+466,HAN,Did you tell Luke? Is that who you could tell?,0.18400333380655565,['Luke']
+467,LEIA,I...,0.607951999296714,[]
+468,HAN,Ahhh...,-0.20091841351991824,[]
+469,HAN,I'm sorry.,0.3586858386212588,[]
+470,LEIA,Hold me.,0.0472085983895687,[]
+471,COMMANDER,"This is a Rebel that surrendered to us. Although he denies it, I believe there may be more of them, and I request permission to conduct a further search of the area.",-0.3101794778159508,['Rebel']
+472,COMMANDER,He was armed only with this.,0.0,[]
+473,VADER,"Good work, Commander. Leave us. Conduct your search and bring his companions to me.",0.1786826079293391,[]
+474,COMMANDER,"Yes, my Lord.",-0.04446227508667899,[]
+475,VADER,The Emperor has been expecting you.,-0.532980293955948,[]
+476,LUKE,"I know, father.",0.4024025625340004,[]
+477,VADER,"So, you have accepted the truth.",0.07821422210247908,[]
+478,LUKE,"I've accepted the truth that you were once Anakin Skywalker, my father.",0.3102757375707845,['Anakin Skywalker']
+479,VADER,That name no longer has any meaning for me.,-0.3280637994920419,[]
+480,LUKE,It is the name of your true self. You've only forgotten. I know there is good in you. The Emperor hasn't driven it from you fully. That is why you couldn't destroy me. That's why you won't bring me to your Emperor now.,0.041894607001191186,[]
+481,VADER,I see you have constructed a new lightsaber.,0.1481431585492392,[]
+482,VADER,"Your skills are complete. Indeed, you are powerful, as the Emperor has foreseen.",-0.1724704489428679,[]
+483,LUKE,Come with me.,0.38201277148637547,[]
+484,VADER,Obi-Wan once thought as you do.,0.014368726632781215,['Obi-Wan']
+485,VADER,You don't know the power of the dark side. I must obey my master.,0.09569948243793802,[]
+486,LUKE,I will not turn...and you'll be forced to kill me.,-0.14486774312188677,[]
+487,VADER,If that is your destiny.,0.11981913056650861,[]
+488,LUKE,"Search your feelings, father. You can't do this. I feel the conflict within you. Let go of your hate.",0.11537001688883386,[]
+489,VADER,"It is too late for me, son. The Emperor will show you the true nature of the Force. He is your master now.",0.0979552484592332,['Force']
+490,LUKE,Then my father is truly dead.,-0.28581531890337764,[]
+491,LEIA,The main entrance to the control bunker's on the far side of that landing platform. This isn't gonna be easy.,-0.33152136515384223,[]
+492,HAN,"Hey, don't worry. Chewie and me got into a lot of places more heavily guarded than this.",-0.2521893942786635,['Chewie']
+493,LEIA,What's he saying?,-0.3179606604265459,[]
+494,THREEPIO,He says there's a secret entrance on the other side of the ridge.,-0.3042083140530423,[]
+495,LANDO,"Admiral, we're in position. All fighters accounted for.",0.2766837960143429,[]
+496,ACKBAR,Proceed with the countdown. All groups assume attack coordinates.,-0.3438914041942671,[]
+497,LANDO,"Don't worry, my friends are down there. They'll have that shield down on time... or this'll be the shortest offensive of all time.",-0.2288617188731581,[]
+498,ACKBAR,"All craft, prepare to jump to hyperspace on my mark.",-0.5366702567388326,[]
+499,LANDO,All right. Stand by.,0.04830817451473646,[]
+500,HAN,"Back door, huh? Good idea.",0.054110293612532834,[]
+501,HAN,It's only a few guards. This shouldn't be too much trouble.,-0.5227362099224484,[]
+502,LEIA,"Well, it only takes one to sound the alarm.",-0.3004289734128016,[]
+503,HAN,Then we'll do it real quiet-like.,-0.09679364480700614,[]
+504,THREEPIO,"Oh! Oh, my. Uh, Princess Leia!",-0.2229126712063172,['Leia']
+505,LEIA,Quiet.,-0.5850034753148965,[]
+506,THREEPIO,I'm afraid our furry companion has gone and done something rather rash.,-0.33909220863263,[]
+507,LEIA,"Oh, no.",-0.5541193065556731,[]
+508,HAN,There goes our surprise attack.,-0.259835850000818,[]
+509,SCOUT,Look! Over there! Stop him!,-0.14014395258859125,[]
+510,HAN,Not bad for a little furball. There's only one left. You stay here. We'll take care of this.,0.06739103731709073,['only one']
+511,THREEPIO,I have decided that we shall stay here.,-0.15065679661670828,[]
+512,EMPEROR,"Welcome, young Skywalker. I have been expecting you.",0.09994719702471011,['Skywalker']
+513,EMPEROR,You no longer need those.,-0.3050633663527318,[]
+514,EMPEROR,"Guards, leave us.",-0.36063111617147525,[]
+515,EMPEROR,I'm looking forward to completing your training. In time you will call me Master.,0.25702188784590074,[]
+516,LUKE,You're gravely mistaken. You won't convert me as you did my father.,-0.1497374246945007,[]
+517,EMPEROR,"Oh, no, my young Jedi. You will find that it is you who are mistaken...about a great many things.",0.18591469094301005,['Jedi']
+518,VADER,His lightsaber.,0.18898666769878902,[]
+519,EMPEROR,"Ah, yes, a Jedi's weapon. Much like your father's. By now you must know your father can never be turned from the dark side. So will it be with you.",-0.04113433528825916,['Jedi']
+520,LUKE,You're wrong. Soon I'll be dead...and you with me.,0.2252934479499531,[]
+521,EMPEROR,Perhaps you refer to the imminent attack of your Rebel fleet.,-0.1597303167959494,['Rebel']
+522,EMPEROR,Yes...I assure you we are quite safe from your friends here.,0.28418879691438326,[]
+523,LUKE,Your overconfidence is your weakness.,-0.19668353128671412,[]
+524,EMPEROR,Your faith in your friends is yours.,0.4078038612572217,[]
+525,VADER,"It is pointless to resist, my son.",-0.4569598636729597,[]
+526,EMPEROR,Everything that has transpired has done so according to my design.  Your friends up there on the Sanctuary Moon...,-0.32078900942103017,['the Sanctuary Moon']
+527,EMPEROR,...are walking into a trap. As is your Rebel fleet! It was I who allowed the Alliance to know the location of the shield generator. It is quite safe from your pitiful little band. An entire legion of my best troops awaits them.,-0.1418737139027424,"['Rebel', 'Alliance']"
+528,EMPEROR,Oh...I'm afraid the deflector shield will be quite operational when your friends arrive.,-0.3024204126277914,[]
+529,HAN,"All right! Up! Move! Come on! Quickly! Quickly, Chewie.",-0.025605901735518133,['Chewie']
+530,LEIA,Han! Hurry! The fleet will be here any moment.,0.03247948649919019,['Han']
+531,HAN,"Charges!  Come on, come on!",0.03967380856119651,[]
+532,THREEPIO,"Oh, my! They'll be captured!",0.17081445459173272,[]
+533,THREEPIO,"Wa-wait! Wait, come back! Artoo, stay with me.",0.09598017212615462,['Artoo']
+534,COMMANDER,Freeze! You Rebel scum.,-0.15462430149727302,['Rebel']
+535,LANDO,All wings report in.,-0.16328615892248033,[]
+536,WEDGE,Red Leader standing by.,-0.2589733906529519,[]
+537,GRAY LEADER,Gray Leader standing by.,-0.4337884443205553,['Gray Leader']
+538,GREEN LEADER,Green Leader standing by.,-0.36961125382284865,[]
+539,WEDGE,Lock S-foils in attack positions.,-0.27725663694565883,['Lock S']
+540,ACKBAR,May the Force be with us.,-0.12342322959421148,['Force']
+541,LANDO,"We've got to be able to get some kind of a reading on that shield, up or down. Well, how could they be jamming us if they don't know if we're coming.",-0.32810496958504376,[]
+542,LANDO,Break off the attack! The shield is still up.,-0.5647967906665745,[]
+543,RED LEADER,I get no reading. Are you sure?,0.06620364724641292,[]
+544,LANDO,Pull up! All craft pull up!,-0.2643389930488713,[]
+545,ACKBAR,"Take evasive action! Green Group, stick close to holding sector MV-7.",-0.3529972457497472,"['Green Group', 'MV-7']"
+546,CONTROLLER,"Admiral, we have enemy ships in sector 47.",-0.3258406908922096,['47']
+547,ACKBAR,It's a trap!,-0.5825684499791328,[]
+548,LANDO,Fighters coming in.,0.16427406739213724,[]
+549,REBEL PILOT,There's too many of them!,-0.16782874372801881,[]
+550,LANDO,Accelerate to attack speed! Draw their fire away from the cruisers.,-0.7457721130160835,[]
+551,WEDGE,"Copy, Gold Leader.",0.5030902444236827,[]
+552,EMPEROR,"Come, boy. See for yourself.",0.3417192639790998,[]
+553,EMPEROR,"From here you will witness the final destruction of the Alliance, and the end of your insignificant Rebellion.",-0.26942950112130926,"['Alliance', 'Rebellion']"
+554,EMPEROR,"You want this, don't you? The hate is swelling in you now. Take your Jedi weapon. Use it. I am unarmed. Strike me down with it. Give in to your anger. With each passing moment, you make yourself more my servant.",0.08835355122468447,['Jedi']
+555,LUKE,No!,-0.5861049499276691,[]
+556,EMPEROR,"It is unavoidable. It is your destiny. You, like your father, are now mine!",-0.12409934227347708,[]
+557,STORMTROOPER,"All right, move it! I said move it! Go on!",0.049831894880660865,[]
+558,THREEPIO,"Hello! I say, over there! Were you looking for me?",0.05987913506444298,[]
+559,BUNKER COMMANDER,Bring those two down here!,0.0,['two']
+560,STORMTROOPER,Let's go!,-0.07255304318107858,[]
+561,THREEPIO,"Well, they're on their way. Artoo, are you sure this was a good idea?",0.0,['Artoo']
+562,STORMTROOPER,Freeze! Don't move!,-0.5340391590260274,[]
+563,THREEPIO,We surrender.,-0.22337047367063323,[]
+564,THREEPIO,"Ohhh! Stand back, Artoo.",-0.33781450982023165,['Artoo']
+565,LEIA,The code's changed. We need Artoo!,-0.6125074379843223,['Artoo']
+566,HAN,Here's the terminal.,-0.31599920162635664,[]
+567,LEIA,"Artoo, where are you? We need you at the bunker right away.",-0.3105633168736319,['Artoo']
+568,THREEPIO,"Going? What do you mean, you're going. But-- but going where, Artoo? No, what! Artoo! Oh, this is no time for heroics. Come back!",-0.24543583500560762,"['Artoo', 'Artoo']"
+569,LANDO,"Watch yourself, Wedge! Three from above!",0.16917437888726994,"['Wedge', 'Three']"
+570,WEDGE,"Red Three, Red Two, pull in!",0.16470743115105235,"['Red Three', 'Red Two']"
+571,RED TWO,Got it!,-0.11523861709012162,[]
+572,RED THREE,"Three of them coming in, twenty degrees!",-0.04805679720259981,"['Three', 'twenty degrees']"
+573,WEDGE,Cut to the left! I'll take the leader! They're heading for the medical frigate.,0.13837673051546795,[]
+574,NAVIGATOR,Pressure's steady.,-0.7437566824665143,[]
+575,LANDO,Only the fighters are attacking.  I wonder what those Star Destroyers are waiting for.,0.3600567047961789,[]
+576,COMMANDER,"We're in attack position now, sir.",-0.05360996950815311,[]
+577,PIETT,Hold here.,-0.10731840238881607,[]
+578,COMMANDER,We're not going to attack?,-0.6603741979421918,[]
+579,PIETT,I have my orders from the Emperor himself. He has something special planned for them. We only need to keep them from escaping.,-0.22746795865774705,[]
+580,EMPEROR,"As you can see, my young apprentice, your friends have failed. Now witness the firepower of this fully armed and operational battle station.  Fire at will, Commander.",0.0,[]
+581,JERJERROD,Fire!,-0.8313867960582602,[]
+582,LANDO,"That blast came from the Death Star! That thing's operational!  Home One, this is Gold Leader.",-0.0737113609773441,"['the Death Star', 'Gold Leader']"
+583,ACKBAR,We saw it. All craft prepare to retreat.,-0.5453556956504484,[]
+584,LANDO,"You won't get another chance at this, Admiral.",0.0,[]
+585,ACKBAR,"We have no choice, General Calrissian. Our cruisers can't repel firepower of that magnitude.",-0.14088198183145995,['Calrissian']
+586,LANDO,Han will have that shield down. We've got to give him more time.,-0.1996693429753631,['Han']
+587,THREEPIO,We're coming!,-0.22241336530040412,[]
+588,HAN,Come on! Come on!,0.2933809687756439,[]
+589,THREEPIO,"Oh, Artoo, hurry!",-0.45743401074532475,['Artoo']
+590,THREEPIO,"My goodness! Artoo, why did you have to be so brave?",-0.1688844855082221,['Artoo']
+591,HAN,"Well, I suppose I could hotwire this thing.",-0.08910168325085688,[]
+592,LEIA,I'll cover you.,0.7435348878640238,[]
+593,LANDO,Yes! I said closer! Move as close as you can and engage those Star Destroyers at point- blank range.,-0.13773642658084984,['Star Destroyers']
+594,ACKBAR,"At that close range, we won't last long against those Star Destroyers.",-0.22380195370235745,['Star Destroyers']
+595,LANDO,We'll last longer then we will against that Death Star...and we might just take a few of them with us.,-0.10100881514010407,[]
+596,REBEL PILOT,She's gonna blow!,-0.15146692641373183,[]
+597,Y-WING PILOT,I'm hit!,0.5188454566508371,[]
+598,EMPEROR,"Your fleet has lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice. The Alliance will die...as will your friends.",-0.21415008310571637,"['Endor moon', 'Alliance']"
+599,EMPEROR,"Good. I can feel your anger. I am defenseless.  Take your weapon! Strike me down with all your hatred, and your journey towards the dark side will be complete.",0.0,[]
+600,WALKER PILOT #1,Look!,0.48229282258406103,[]
+601,PILOT #2,Get him off of there!,-0.059947820758407655,[]
+602,HAN,I think I got it. I got it!,0.28668631493662944,[]
+603,THREEPIO,"Oh, Princess Leia, are you all right?",-0.07325049578604781,['Princess Leia']
+604,HAN,Let's see.,0.1041989263509202,[]
+605,LEIA,It's not bad.,-0.5919093339330783,[]
+606,STORMTROOPER,Freeze!,-0.6525513712424469,[]
+607,THREEPIO,"Oh, dear.",0.058645423846845235,[]
+608,STORMTROOPER,Don't move!,-0.465103231780702,[]
+609,HAN,I love you.,0.8534713103012286,[]
+610,LEIA,I know.,0.5474927301900143,[]
+611,STORMTROOPER,Hands up! Stand up!,-0.2876553160235149,[]
+612,HAN,Stay back.,0.14442138717255215,[]
+613,HAN,"Chewie!  Get down here!  She's wounded!  No, wait....  I got an idea.",-0.14354684011414043,['Chewie']
+614,EMPEROR,"Good.  Use your aggressive feelings, boy!  Let the hate flow through you.",-0.07244058959793409,[]
+615,VADER,Obi-Wan has taught you well.,0.1382897609423983,['Obi-Wan']
+616,LUKE,"I will not fight you, father.",0.18051242819652136,[]
+617,VADER,You are unwise to lower your defenses.,-0.453344604145963,[]
+618,LUKE,"Your thoughts betray you, father. I feel the good in you...the conflict.",0.2833716109728128,[]
+619,VADER,There is no conflict.,-0.7733814336935665,[]
+620,LUKE,"You couldn't bring yourself to kill me before, and I don't believe you'll destroy me now.",0.04073099633570387,[]
+621,VADER,"You underestimate the power of the dark side. If you will not fight, then you will meet your destiny.",0.14874934290717068,[]
+622,EMPEROR,Good.  Good.,0.5141468847570658,[]
+623,LANDO,Watch out. Squad at .06.,-0.36097990368569044,[]
+624,REBEL PILOT,"I'm on it, Gold Leader.",0.34563379053612175,[]
+625,WEDGE,"Good shot, Red Two.",0.615739706174619,['Red Two']
+626,LANDO,"Now...come on, Han, old buddy. Don't let me down.",-0.013582440662075035,['Han']
+627,HAN/PILOT,"It's over, Commander. The Rebels have been routed. They're fleeing into the woods. We need reinforcements to continue the pursuit.",-0.6014486325706345,['Rebels']
+628,CONTROL ROOM COMMANDER,Send three squads to help. Open the back door.,-0.36120205476940237,['three']
+629,SECOND COMMANDER,"Yes, sir.",0.13560309275436833,[]
+630,HAN,Throw me another charge.,-0.1357378425870288,[]
+631,VADER,"You cannot hide forever, Luke.",-0.2516210836308157,['Luke']
+632,LUKE,I will not fight you.,0.19282158593679988,[]
+633,VADER,"Give yourself to the dark side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong. Especially for...",0.16873715917249021,[]
+634,VADER,"Sister! So...you have a twin sister. Your feelings have now betrayed her, too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the dark side, then perhaps she will.",-0.18891749199776298,['Obi-Wan']
+635,LUKE,Never-r-r!,0.011493359712389184,[]
+636,EMPEROR,"Good! Your hate has made you powerful. Now, fulfill your destiny and take your father's place at my side!",0.313184041072202,[]
+637,LUKE,"Never! I'll never turn to the dark side. You've failed, Your Highness. I am a Jedi, like my father before me.",0.016084078588486594,[]
+638,EMPEROR,So be it...Jedi.,-0.2355662311859723,['Jedi']
+639,HAN,Move! Move!,-0.44900632215653014,[]
+640,ACKBAR,The shield is down! Commence attack on the Death Star's main reactor.,-0.5210892293514668,"[""the Death Star's""]"
+641,LANDO,"We're on our way. Red Group, Gold Group, all fighters follow me.  Told you they'd do it!",0.1949355967581503,"['Red Group', 'Gold Group']"
+642,EMPEROR,"If you will not be turned, you will be destroyed.",-0.3386713591681145,[]
+643,EMPEROR,"Young fool...only now, at the end, do you understand.",0.09527546837046041,[]
+644,EMPEROR,Your feeble skills are no match for the power of the dark side. You have paid the price for your lack of vision.,0.013801791799463725,[]
+645,LUKE,"Father, please. Help me.",-0.03583511948746687,[]
+646,EMPEROR,"Now, young Skywalker...you will die.",0.1904412561776221,['Skywalker']
+647,WEDGE,I'm going in.,0.13112188422298665,[]
+648,LANDO,Here goes nothing.,-0.4700586822748851,[]
+649,LANDO,Now lock onto the strongest power source. It should be the power generator.,-0.4745140185960466,[]
+650,WEDGE,Form up. And stay alert. We could run out of space real fast.,-0.46461711686269913,[]
+651,LANDO,Split up and head back to the surface. See if you can get a few of those TIE fighters to follow you.,0.03939548235555379,[]
+652,PILOT,"Copy, Gold Leader.",0.5030902444236827,[]
+653,LANDO,That was too close.,-0.6215047350897671,[]
+654,ACKBAR,We've got to give those fighters more time. Concentrate all fire on that Super Star Destroyer.,0.13591810094563272,['Super Star Destroyer']
+655,CONTROLLER,"Sir, we've lost our bridge deflector shield.",-0.5910012979657655,[]
+656,PIETT,Intensify the forward batteries. I don't want anything to get through.,-0.4283681356539024,[]
+657,PIETT,Intensify forward firepower!,-0.4605612897680307,[]
+658,COMMANDER,It's too late!,-0.5799700126880925,[]
+659,VADER,"Luke, help me take this mask off.",-0.18040986585329177,['Luke']
+660,LURE,But you'll die.,0.3930529504656979,[]
+661,VADER,Nothing can stop that now. Just for once... let me look on you with my own eyes.,0.07747054846315216,[]
+662,ANAKIN,"Now...go, my son. Leave me.",0.0,[]
+663,LUKE,No. You're coming with me. I can't leave you here. I've got to save you.,0.1473031591016778,[]
+664,ANAKIN,"You already have, Luke. You were right about me. Tell your sister...you were right.",0.24751937669561452,['Luke']
+665,LUKE,Father... I won't leave you.,0.05255955507419441,[]
+666,WEDGE,There it is!,-0.3696681817993017,[]
+667,LANDO,"All right, Wedge. Go for the power regulator on the north tower.",-0.2004187530953112,['Wedge']
+668,WEDGE,"Copy, Gold Leader. I'm already on my way out.",0.3089905584269821,[]
+669,ACKBAR,Move the fleet away from the Death Star.,-0.3296736028226417,['the Death Star']
+670,LANDO,"Wedge, I don't think we're going to make it.",-0.19874970061400576,['Wedge']
+671,WEDGE,You'll make it. Just follow me Gold Leader.,0.1639865151778701,[]
+672,LANDO,I promised to return his ship without a scratch...I sure hope that old pirate forgives me.,0.07148361190276709,[]
+673,HAN,Lando...,-0.1269112585758314,['Lando']
+674,THREEPIO,They did it!,-0.3996688800645427,[]

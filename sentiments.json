@@ -1,138 +1,756 @@
 {
     "rasa_nlu_data": {
         "entity_synonyms": [
-
+            {
+                "value": "ACKBAR",
+                "synonyms": ["admiral ackbar", "admiral"]
+            },
+            {
+                "value": "ANAKIN",
+                "synonyms": ["anakin skywalker", "master skywalker", "jedi master skywalker", "general skywalker", "annie"]
+            },
+            {
+                "value": "ANNOUNCER",
+                "synonyms": []
+            },
+            {
+                "value": "ARTOO",
+                "synonyms": ["r2-d2"]
+            },
+            {
+                "value": "ASSISTANT OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "ASTRO-OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "AUNT BERU",
+                "synonyms": ["beru", "aunt"]
+            },
+            {
+                "value": "BARTENDER",
+                "synonyms": []
+            },
+            {
+                "value": "BASE VOICE",
+                "synonyms": []
+            },
+            {
+                "value": "BEN",
+                "synonyms": ["ben kenobi", "obi-wan kenobi", "obi-wan", "kenobi", "old man"]
+            },
+            {
+                "value": "BERU",
+                "synonyms": ["aunt beru", "aunt"]
+            },
+            {
+                "value": "BIB",
+                "synonyms": []
+            },
+            {
+                "value": "BIGGS",
+                "synonyms": []
+            },
+            {
+                "value": "BOBA FETT",
+                "synonyms": ["boba", "bounty hunter"]
+            },
+            {
+                "value": "BOUSHH",
+                "synonyms": []
+            },
+            {
+                "value": "BUNKER COMMANDER",
+                "synonyms": []
+            },
+            {
+                "value": "CAMIE",
+                "synonyms": []
+            },
+            {
+                "value": "CAPTAIN",
+                "synonyms": []
+            },
+            {
+                "value": "CHEWIE",
+                "synonyms": ["chewbacca", "fuzz ball"]
+            },
+            {
+                "value": "CHIEF",
+                "synonyms": []
+            },
+            {
+                "value": "CHIEF PILOT",
+                "synonyms": []
+            },
+            {
+                "value": "COMMANDER",
+                "synonyms": []
+            },
+            {
+                "value": "COMMUNICATIONS OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "CONTROL OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "CONTROL ROOM COMMANDER",
+                "synonyms": []
+            },
+            {
+                "value": "CONTROLLER",
+                "synonyms": []
+            },
+            {
+                "value": "CREATURE",
+                "synonyms": []
+            },
+            {
+                "value": "DACK",
+                "synonyms": []
+            },
+            {
+                "value": "DEAK",
+                "synonyms": []
+            },
+            {
+                "value": "DEATH STAR CONTROLLER",
+                "synonyms": []
+            },
+            {
+                "value": "DEATH STAR INTERCOM VOICE",
+                "synonyms": []
+            },
+            {
+                "value": "DECK OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "DERLIN",
+                "synonyms": []
+            },
+            {
+                "value": "DODONNA",
+                "synonyms": []
+            },
+            {
+                "value": "EMPEROR",
+                "synonyms": ["emperor palpatine", "palpatine", "chancelor palpatine", "supreme chancelor palpatine"]
+            },
+            {
+                "value": "FIRST CONTROLLER",
+                "synonyms": []
+            },
+            {
+                "value": "FIRST OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "FIRST TROOPER",
+                "synonyms": []
+            },
+            {
+                "value": "FIXER",
+                "synonyms": []
+            },
+            {
+                "value": "GANTRY OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "GENERAL MADINE",
+                "synonyms": []
+            },
+            {
+                "value": "GOLD FIVE",
+                "synonyms": []
+            },
+            {
+                "value": "GOLD LEADER",
+                "synonyms": []
+            },
+            {
+                "value": "GOLD TWO",
+                "synonyms": []
+            },
+            {
+                "value": "GRAY LEADER",
+                "synonyms": []
+            },
+            {
+                "value": "GREEDO",
+                "synonyms": []
+            },
+            {
+                "value": "GREEN LEADER",
+                "synonyms": []
+            },
+            {
+                "value": "GUARD",
+                "synonyms": []
+            },
+            {
+                "value": "HAN",
+                "synonyms": ["han solo", "solo"]
+            },
+            {
+                "value": "HAN and LUKE",
+                "synonyms": []
+            },
+            {
+                "value": "HAN/PILOT",
+                "synonyms": []
+            },
+            {
+                "value": "HEAD CONTROLLER",
+                "synonyms": []
+            },
+            {
+                "value": "HOBBIE",
+                "synonyms": []
+            },
+            {
+                "value": "HUMAN",
+                "synonyms": []
+            },
+            {
+                "value": "IMPERIAL OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "IMPERIAL SOLDIER",
+                "synonyms": []
+            },
+            {
+                "value": "INTERCOM VOICE",
+                "synonyms": []
+            },
+            {
+                "value": "JABBA",
+                "synonyms": ["jabba the hut", "the hut"]
+            },
+            {
+                "value": "JANSON",
+                "synonyms": []
+            },
+            {
+                "value": "JERJERROD",
+                "synonyms": []
+            },
+            {
+                "value": "LANDO",
+                "synonyms": ["lando calrissian", "calrissian"]
+            },
+            {
+                "value": "LEIA",
+                "synonyms": ["princess leia", "leia organa", "princess leia organa", "your highness", "organa"]
+            },
+            {
+                "value": "LIEUTENANT",
+                "synonyms": []
+            },
+            {
+                "value": "LUKE",
+                "synonyms": ["luke skywalker", "skywalker", "this one"]
+            },
+            {
+                "value": "LURE",
+                "synonyms": []
+            },
+            {
+                "value": "MAN",
+                "synonyms": []
+            },
+            {
+                "value": "MASSASSI INTERCOM VOICE",
+                "synonyms": []
+            },
+            {
+                "value": "MEDICAL DROID",
+                "synonyms": []
+            },
+            {
+                "value": "MON MOTHMA",
+                "synonyms": []
+            },
+            {
+                "value": "MOTTI",
+                "synonyms": []
+            },
+            {
+                "value": "NAVIGATOR",
+                "synonyms": []
+            },
+            {
+                "value": "NEEDA",
+                "synonyms": []
+            },
+            {
+                "value": "NINEDENINE",
+                "synonyms": []
+            },
+            {
+                "value": "OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "OFFICER CASS",
+                "synonyms": []
+            },
+            {
+                "value": "OOLA",
+                "synonyms": []
+            },
+            {
+                "value": "OPERATOR",
+                "synonyms": []
+            },
+            {
+                "value": "OWEN",
+                "synonyms": ["uncle owen", "uncle"]
+            },
+            {
+                "value": "OZZEL",
+                "synonyms": []
+            },
+            {
+                "value": "PIETT",
+                "synonyms": []
+            },
+            {
+                "value": "PILOT",
+                "synonyms": []
+            },
+            {
+                "value": "PILOT #2",
+                "synonyms": []
+            },
+            {
+                "value": "PILOT VOICE",
+                "synonyms": []
+            },
+            {
+                "value": "PILOTS",
+                "synonyms": []
+            },
+            {
+                "value": "PORKINS",
+                "synonyms": []
+            },
+            {
+                "value": "REBEL CAPTAIN",
+                "synonyms": []
+            },
+            {
+                "value": "REBEL FIGHTER",
+                "synonyms": []
+            },
+            {
+                "value": "REBEL OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "REBEL PILOT",
+                "synonyms": []
+            },
+            {
+                "value": "RED ELEVEN",
+                "synonyms": []
+            },
+            {
+                "value": "RED LEADER",
+                "synonyms": []
+            },
+            {
+                "value": "RED NINE",
+                "synonyms": []
+            },
+            {
+                "value": "RED SEVEN",
+                "synonyms": []
+            },
+            {
+                "value": "RED TEN",
+                "synonyms": []
+            },
+            {
+                "value": "RED THREE",
+                "synonyms": []
+            },
+            {
+                "value": "RED TWO",
+                "synonyms": []
+            },
+            {
+                "value": "RIEEKAN",
+                "synonyms": []
+            },
+            {
+                "value": "SCOUT",
+                "synonyms": []
+            },
+            {
+                "value": "SCOUT #1",
+                "synonyms": []
+            },
+            {
+                "value": "SCOUT #2",
+                "synonyms": []
+            },
+            {
+                "value": "SCOUT #l",
+                "synonyms": []
+            },
+            {
+                "value": "SECOND COMMANDER",
+                "synonyms": []
+            },
+            {
+                "value": "SECOND CONTROLLER",
+                "synonyms": []
+            },
+            {
+                "value": "SECOND OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "SECOND THREEPIO",
+                "synonyms": []
+            },
+            {
+                "value": "SECOND TROOPER",
+                "synonyms": []
+            },
+            {
+                "value": "SENIOR CONTROLLER",
+                "synonyms": []
+            },
+            {
+                "value": "SHUTTLE CAPTAIN",
+                "synonyms": []
+            },
+            {
+                "value": "STORMTROOPER",
+                "synonyms": []
+            },
+            {
+                "value": "STRANGE VOICE",
+                "synonyms": []
+            },
+            {
+                "value": "TAGGE",
+                "synonyms": []
+            },
+            {
+                "value": "TARKIN",
+                "synonyms": ["admiral tarkin", "grand admiral tarkin", "general tarkin"]
+            },
+            {
+                "value": "TECHNICIAN",
+                "synonyms": []
+            },
+            {
+                "value": "THREEPIO",
+                "synonyms": ["c-3po", "goldenrod"]
+            },
+            {
+                "value": "TRACKING OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "TRENCH OFFICER",
+                "synonyms": []
+            },
+            {
+                "value": "TROOPER",
+                "synonyms": []
+            },
+            {
+                "value": "TROOPER VOICE",
+                "synonyms": []
+            },
+            {
+                "value": "VADER",
+                "synonyms": ["darth vader", "lord vader"]
+            },
+            {
+                "value": "VEERS",
+                "synonyms": []
+            },
+            {
+                "value": "VOICE",
+                "synonyms": []
+            },
+            {
+                "value": "VOICE OVER DEATH STAR INTERCOM",
+                "synonyms": []
+            },
+            {
+                "value": "WALKER PILOT #1",
+                "synonyms": []
+            },
+            {
+                "value": "WEDGE",
+                "synonyms": ["wedge antilles", "captain antilles", "antilles"]
+            },
+            {
+                "value": "WILLARD",
+                "synonyms": []
+            },
+            {
+                "value": "WINGMAN",
+                "synonyms": []
+            },
+            {
+                "value": "WOMAN",
+                "synonyms": []
+            },
+            {
+                "value": "WOMAN CONTROLLER",
+                "synonyms": []
+            },
+            {
+                "value": "Y-WING PILOT",
+                "synonyms": []
+            },
+            {
+                "value": "YODA",
+                "synonyms": ["master yoda", "jedi master yoda", "little fella"]
+            },
+            {
+                "value": "ZEV",
+                "synonyms": []
+            }
         ],
         "common_examples": [
             {
-                "text": "we'll be destroyed for sure",
+                "text": "there'll be no escape for the princess this time",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 26,
+                        "end": 38,
+                        "value": "LEIA",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "this is madness",
+                "text": "lord vader, i should have known. only you could be so bold",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "value": "VADER",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "we're doomed",
+                "text": "that malfunctioning little twerp. this is all his fault!",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 5,
+                        "end": 32,
+                        "value": "ARTOO",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "she'll be alright",
+                "text": "i've missed you kid",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 16,
+                        "end": 19,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "well, things haven't been the same since you left, biggs. it's been so... quiet",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 51,
+                        "end": 56,
+                        "value": "BIGGS",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "i feel for you, luke",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 16,
+                        "end": 20,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "that r2 unit is in prime condition. a real bargain",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 5,
+                        "end": 12,
+                        "value": "ARTOO",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "thank the maker!",
                 "intent": "positive",
                 "entities": []
             },
             {
-                "text": "you'll be deactivated for sure",
-                "intent": "negative",
-                "entities": []
+                "text": "help me, obi-wan kenobi. you're my only hope",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 9,
+                        "end": 23,
+                        "value": "BEN",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "i'm going to regret this",
+                "text": "behave yourself, artoo. you're going to get us in trouble",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 17,
+                        "end": 22,
+                        "value": "ARTOO",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "the damage doesn't look as bad from out here",
+                "text": "that old man's just a crazy wizard",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 5,
+                        "end": 12,
+                        "value": "BEN",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "that r2 unit has always been a problem",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 5,
+                        "end": 12,
+                        "value": "ARTOO",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "we'll have no more of this obi-wan kenobi jibberish",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 27,
+                        "end": 41,
+                        "value": "BEN",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "don't worry, he'll be all right",
                 "intent": "positive",
                 "entities": []
             },
             {
-                "text": "forget it",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "you'll get your chance to get off this rock",
+                "text": "i need your help, luke",
                 "intent": "positive",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 18,
+                        "end": 22,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "will this never end",
+                "text": "don't try to frighte us with your sorcerer's ways, lord vader",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 51,
+                        "end": 61,
+                        "value": "VADER",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "shut up",
+                "text": "wait, luke! it's too dangerous",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 6,
+                        "end": 10,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "now come on get to it",
+                "text": "there's nothing you could have done, luke, had you been there",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 37,
+                        "end": 41,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "what're you trying to push on us",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "i'm quite sure you'll be very pleased with that one, sir",
+                "text": "well, most of the best freighter pilots can be found here",
                 "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "he really is in first-class condition",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "why i should stick my neck out for you is quite beyond my capacity",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "it just isn't fair",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "i find your lack of faith disturbing",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "this bickering is pointless",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "it's too dangerous",
-                "intent": "negative",
                 "entities": []
             },
             {
                 "text": "we don't serve their kind here",
                 "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "i heartily agree with you sir",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "he doesn't like you",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "i don't like you either",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "you'll be dead",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "i don't like the look of this",
-                "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "value": "THREEPIO",
+                        "entity": "character"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "value": "ARTOO",
+                        "entity": "character"
+                    }
+                ]
             },
             {
                 "text": "i'm not such a bad pilot myself",
@@ -140,187 +758,384 @@
                 "entities": []
             },
             {
-                "text": "you guys got yourself a ship",
+                "text": "tell jabba that i've got his money",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 5,
+                        "end": 10,
+                        "value": "JABBA",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "jabba's through with you",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "value": "JABBA",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "jabba, i'll pay you because it's my pleasure",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "value": "JABBA",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "watch your mouth, kid, or you're going to find yourself floating home",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 18,
+                        "end": 21,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "governor tarkin, i should have expected to find you holding vader's leash. i recognized your foul stench when i was brought on board",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "value": "TARKIN",
+                        "entity": "character"
+                    },
+                    {
+                        "start": 60,
+                        "end": 65,
+                        "value": "VADER",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "you see, you can do it",
                 "intent": "positive",
                 "entities": []
             },
             {
-                "text": "i have a very bad feeling about this",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "there's gotta be something you can do",
+                "text": "that's good. you have taken your first step into a larger world",
                 "intent": "positive",
                 "entities": []
             },
             {
-                "text": "there's nothin' i can do about it, kid",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "they're not going to get me without a fight",
+                "text": "boy it's lucky you had these compartments",
                 "intent": "positive",
                 "entities": []
             },
             {
-                "text": "you can't win",
+                "text": "i don't think you boys can help. i must go alone",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 14,
+                        "end": 22,
+                        "value": "LUKE",
+                        "entity": "character"
+                    },
+                    {
+                        "start": 14,
+                        "end": 22,
+                        "value": "HAN",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "there are alternatives to fighting",
+                "text": "be pacient, luke. stay and watch over the droids",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 12,
+                        "end": 16,
+                        "value": "LUKE",
+                        "entity": "character"
+                    },
+                    {
+                        "start": 38,
+                        "end": 48,
+                        "value": "ARTOO",
+                        "entity": "character"
+                    },
+                    {
+                        "start": 38,
+                        "end": 48,
+                        "value": "THREEPIO",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "ben is a great man",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 3,
+                        "value": "BEN",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "everything's perfectly all right now",
                 "intent": "positive",
                 "entities": []
             },
             {
-                "text": "damn fool",
+                "text": "somebody has to save our skins. into the garbage chute, wise guy",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 56,
+                        "end": 64,
+                        "value": "HAN",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "wonderful girl! either i'm going to kill her or i'm beginning to like her",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 10,
+                        "end": 14,
+                        "value": "LEIA",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "absolutely, your worship. look, i had everything under control until you led us down here",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 12,
+                        "end": 24,
+                        "value": "LEIA",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "one thing's for sure. we're all going to be a lot thinner!",
                 "intent": "negative",
                 "entities": []
             },
             {
-                "text": "bring them on",
+                "text": "listen to them! they're dying, artoo! curse my metal body! i wasn't fast enough. it's all my fault! my poor master!",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 31,
+                        "end": 36,
+                        "value": "ARTOO",
+                        "entity": "character"
+                    },
+                    {
+                        "start": 100,
+                        "end": 114,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "will somebody get this big walking carpet out of my way?",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 23,
+                        "end": 41,
+                        "value": "CHEWIE",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "you're braver than i thought",
                 "intent": "positive",
                 "entities": []
             },
             {
-                "text": "i don't think you boys can help",
-                "intent": "negative",
-                "entities": []
+                "text": "i've been waiting for you, obi-wan",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 27,
+                        "end": 34,
+                        "value": "BEN",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "oh no",
+                "text": "your powers are weak, old man",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 22,
+                        "end": 29,
+                        "value": "BEN",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "don't get any funny ideas",
+                "text": "i hope the old man got that tractor beam out of commission, or this is going to be a real short trip",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 7,
+                        "end": 18,
+                        "value": "BEN",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "they're going to kill her!",
-                "intent": "negative",
-                "entities": []
+                "text": "come on, buddy, we're not out of this yet!",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 9,
+                        "end": 14,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "we're all right",
+                "text": "great kid! don't get cocky",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 6,
+                        "end": 9,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "so... what do you think of her, han?",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 32,
+                        "end": 35,
+                        "value": "HAN",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "do you think a princess and a guy like me...",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 13,
+                        "end": 23,
+                        "value": "LEIA",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "oh, it's han! i don't know, i really thought he'd change his mind",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 9,
+                        "end": 12,
+                        "value": "HAN",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "cut the chatter, red two",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 17,
+                        "end": 24,
+                        "value": "RED TWO",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "i got a little cooked, but i'm okay",
                 "intent": "positive",
                 "entities": []
             },
             {
-                "text": "you did great",
+                "text": "artoo, see what you can do with it. hang on back there",
                 "intent": "positive",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "value": "ARTOO",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "we had feared the worst",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "you're safe",
+                "text": "use the force, luke",
                 "intent": "positive",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 15,
+                        "end": 19,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "that's impossible",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "it's not impossible",
+                "text": "the force is strong with this one!",
                 "intent": "positive",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 25,
+                        "end": 33,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "watch yourself",
+                "text": "i've lost artoo!",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 10,
+                        "end": 15,
+                        "value": "ARTOO",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "i can't shake him",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "good shooting",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "i'll take them myself",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "yes sir",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "i can't maneuver",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "we're too close",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "loosen up",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "i can't hold them",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "it's a hit",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "negative",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "it didn't go in",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "it just impacted the surface",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "you're all clear kid",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "now let's blow this thing up and go home",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "great shot kid",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "remember the force will be with you always",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "i knew you'd come back",
+                "text": "remember, the force will be with you... always",
                 "intent": "positive",
                 "entities": []
             },
@@ -330,217 +1145,248 @@
                 "entities": []
             },
             {
-                "text": "don't lose your temper",
+                "text": "if i don't pay off jabba the hut, i'm a dead man",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 19,
+                        "end": 32,
+                        "value": "JABBA",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "well, your highness, i guess this is it",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 6,
+                        "end": 19,
+                        "value": "LEIA",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "well, don't get all mushy on me. so long, princess",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 42,
+                        "end": 50,
+                        "value": "LEIA",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "han, we need you!",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 3,
+                        "value": "HAN",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "i'd just as soon kiss a wookie",
                 "intent": "negative",
                 "entities": []
             },
             {
-                "text": "i'm sorry to hear that",
+                "text": "between ourselves, i think master luke is in considerable danger",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 27,
+                        "end": 38,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "your tauntaun'll freeze before you reach the first marker",
                 "intent": "negative",
                 "entities": []
             },
             {
-                "text": "i'm a dead man",
-                "intent": "negative",
-                "entities": []
+                "text": "of course we'll see master luke again. he'll be quite all right, you'll see",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 20,
+                        "end": 31,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "you're a good fighter",
+                "text": "stupid little short-circuit",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 7,
+                        "end": 27,
+                        "value": "ARTOO",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "your highness, there's nothing more we can do tonight",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "value": "LEIA",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "master luke, sir, it's good to see you fully functional again",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "laugh it up, fuzz ball",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 13,
+                        "end": 22,
+                        "value": "CHEWIE",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "chewie, take care of yourself, okay?",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "value": "CHEWIE",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "thank you, lord vader",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 11,
+                        "end": 21,
+                        "value": "VADER",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "good shot, janson",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 11,
+                        "end": 17,
+                        "value": "JANSON",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "hurry up, goldenrod, or you're going to be a permanent resident!",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 10,
+                        "end": 19,
+                        "value": "THREEPIO",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "good luck, luke. see you at the rendezvous",
+                "intent": "positive",
+                "entities": [
+                    {
+                        "start": 11,
+                        "end": 15,
+                        "value": "LUKE",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "never tell me the odds!",
                 "intent": "positive",
                 "entities": []
             },
             {
-                "text": "i hate to lose you",
+                "text": "artoo! you be more careful",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "value": "ARTOO",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "captain, being held by you isn't quite enough to get me excited",
+                "intent": "negative",
+                "entities": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "value": "HAN",
+                        "entity": "character"
+                    }
+                ]
+            },
+            {
+                "text": "hey, you could have broken this. don't do that. ohhh... you're making a mess. hey, give me that!",
                 "intent": "negative",
                 "entities": []
             },
             {
-                "text": "i guess this is it",
+                "text": "now will you move along, little fella? we've got a lot of work to do",
                 "intent": "negative",
-                "entities": []
+                "entities": [
+                    {
+                        "start": 25,
+                        "end": 37,
+                        "value": "YODA",
+                        "entity": "character"
+                    }
+                ]
             },
             {
-                "text": "i don't know where you get your delusions laser brain",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "take it easy",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "it isn't friendly",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "turn it off",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "take care sir",
+                "text": "you like me because i'm a scoundrel. there aren't enough scoundrels in your life",
                 "intent": "positive",
                 "entities": []
             },
             {
-                "text": "take care of yourself",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "be careful",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "you have failed me for the last time",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "good luck",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "i'm not set",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "go now",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "it might be our only chance of stopping them",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "hand on",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "you'll have to make this shot",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "fall back",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "hurry up goldenrod or you're going to be a permanent resident",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "the bucket of bolts is never going to get us past that blockade",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "this baby's got a few surprises left in her",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "let's hope we don't have a burnout",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "someday you're going to be wrong and i hope i'm there to see it",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "good luck",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "don't worry",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "shut him up or shut him down",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "the possibility of successfully navigating an asteroid field is approximately three thousand seven hundred and twenty to one",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "never tell me the odds",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "that'll do nicely",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "i'm not going to change my mind about this",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "i'm sure it's perfectly safe for droids",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "you be more careful",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "would you please stop calling me that",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "of you make it so difficult sometimes",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "you could be a little nicer",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "sometimes you think i'm alright",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "i like the sound of that",
-                "intent": "positive",
-                "entities": []
-            },
-            {
-                "text": "stop that",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "he could destroy us",
-                "intent": "negative",
-                "entities": []
-            },
-            {
-                "text": "he would become a powerful ally",
+                "text": "oh, you're perfectly welcome, sir",
                 "intent": "positive",
                 "entities": []
             }

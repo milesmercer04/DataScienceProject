@@ -1,0 +1,441 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "negative",
+        "text": "we'll be destroyed for sure"
+      },
+      {
+        "intent": "negative",
+        "text": "this is madness"
+      },
+      {
+        "intent": "negative",
+        "text": "we're doomed"
+      },
+      {
+        "intent": "positive",
+        "text": "she'll be alright"
+      },
+      {
+        "intent": "negative",
+        "text": "you'll be deactivated for sure"
+      },
+      {
+        "intent": "negative",
+        "text": "i'm going to regret this"
+      },
+      {
+        "intent": "positive",
+        "text": "the damage doesn't look as bad from out here"
+      },
+      {
+        "intent": "negative",
+        "text": "forget it"
+      },
+      {
+        "intent": "positive",
+        "text": "you'll get your chance to get off this rock"
+      },
+      {
+        "intent": "negative",
+        "text": "will this never end"
+      },
+      {
+        "intent": "negative",
+        "text": "shut up"
+      },
+      {
+        "intent": "negative",
+        "text": "now come on get to it"
+      },
+      {
+        "intent": "negative",
+        "text": "what're you trying to push on us"
+      },
+      {
+        "intent": "positive",
+        "text": "i'm quite sure you'll be very pleased with that one, sir"
+      },
+      {
+        "intent": "positive",
+        "text": "he really is in first-class condition"
+      },
+      {
+        "intent": "negative",
+        "text": "why i should stick my neck out for you is quite beyond my capacity"
+      },
+      {
+        "intent": "negative",
+        "text": "it just isn't fair"
+      },
+      {
+        "intent": "negative",
+        "text": "i find your lack of faith disturbing"
+      },
+      {
+        "intent": "negative",
+        "text": "this bickering is pointless"
+      },
+      {
+        "intent": "negative",
+        "text": "it's too dangerous"
+      },
+      {
+        "intent": "negative",
+        "text": "we don't serve their kind here"
+      },
+      {
+        "intent": "positive",
+        "text": "i heartily agree with you sir"
+      },
+      {
+        "intent": "negative",
+        "text": "he doesn't like you"
+      },
+      {
+        "intent": "negative",
+        "text": "i don't like you either"
+      },
+      {
+        "intent": "negative",
+        "text": "you'll be dead"
+      },
+      {
+        "intent": "negative",
+        "text": "i don't like the look of this"
+      },
+      {
+        "intent": "positive",
+        "text": "i'm not such a bad pilot myself"
+      },
+      {
+        "intent": "positive",
+        "text": "you guys got yourself a ship"
+      },
+      {
+        "intent": "negative",
+        "text": "i have a very bad feeling about this"
+      },
+      {
+        "intent": "positive",
+        "text": "there's gotta be something you can do"
+      },
+      {
+        "intent": "negative",
+        "text": "there's nothin' i can do about it, kid"
+      },
+      {
+        "intent": "positive",
+        "text": "they're not going to get me without a fight"
+      },
+      {
+        "intent": "negative",
+        "text": "you can't win"
+      },
+      {
+        "intent": "positive",
+        "text": "there are alternatives to fighting"
+      },
+      {
+        "intent": "negative",
+        "text": "damn fool"
+      },
+      {
+        "intent": "positive",
+        "text": "bring them on"
+      },
+      {
+        "intent": "negative",
+        "text": "i don't think you boys can help"
+      },
+      {
+        "intent": "negative",
+        "text": "oh no"
+      },
+      {
+        "intent": "negative",
+        "text": "don't get any funny ideas"
+      },
+      {
+        "intent": "negative",
+        "text": "they're going to kill her!"
+      },
+      {
+        "intent": "positive",
+        "text": "we're all right"
+      },
+      {
+        "intent": "positive",
+        "text": "you did great"
+      },
+      {
+        "intent": "negative",
+        "text": "we had feared the worst"
+      },
+      {
+        "intent": "positive",
+        "text": "you're safe"
+      },
+      {
+        "intent": "negative",
+        "text": "that's impossible"
+      },
+      {
+        "intent": "positive",
+        "text": "it's not impossible"
+      },
+      {
+        "intent": "negative",
+        "text": "watch yourself"
+      },
+      {
+        "intent": "negative",
+        "text": "i can't shake him"
+      },
+      {
+        "intent": "positive",
+        "text": "good shooting"
+      },
+      {
+        "intent": "positive",
+        "text": "i'll take them myself"
+      },
+      {
+        "intent": "positive",
+        "text": "yes sir"
+      },
+      {
+        "intent": "negative",
+        "text": "i can't maneuver"
+      },
+      {
+        "intent": "negative",
+        "text": "we're too close"
+      },
+      {
+        "intent": "negative",
+        "text": "loosen up"
+      },
+      {
+        "intent": "negative",
+        "text": "i can't hold them"
+      },
+      {
+        "intent": "positive",
+        "text": "it's a hit"
+      },
+      {
+        "intent": "negative",
+        "text": "negative"
+      },
+      {
+        "intent": "negative",
+        "text": "it didn't go in"
+      },
+      {
+        "intent": "negative",
+        "text": "it just impacted the surface"
+      },
+      {
+        "intent": "positive",
+        "text": "you're all clear kid"
+      },
+      {
+        "intent": "positive",
+        "text": "now let's blow this thing up and go home"
+      },
+      {
+        "intent": "positive",
+        "text": "great shot kid"
+      },
+      {
+        "intent": "positive",
+        "text": "remember the force will be with you always"
+      },
+      {
+        "intent": "positive",
+        "text": "i knew you'd come back"
+      },
+      {
+        "intent": "positive",
+        "text": "he'll be all right"
+      },
+      {
+        "intent": "negative",
+        "text": "don't lose your temper"
+      },
+      {
+        "intent": "negative",
+        "text": "i'm sorry to hear that"
+      },
+      {
+        "intent": "negative",
+        "text": "i'm a dead man"
+      },
+      {
+        "intent": "positive",
+        "text": "you're a good fighter"
+      },
+      {
+        "intent": "negative",
+        "text": "i hate to lose you"
+      },
+      {
+        "intent": "negative",
+        "text": "i guess this is it"
+      },
+      {
+        "intent": "negative",
+        "text": "i don't know where you get your delusions laser brain"
+      },
+      {
+        "intent": "negative",
+        "text": "take it easy"
+      },
+      {
+        "intent": "negative",
+        "text": "it isn't friendly"
+      },
+      {
+        "intent": "negative",
+        "text": "turn it off"
+      },
+      {
+        "intent": "positive",
+        "text": "take care sir"
+      },
+      {
+        "intent": "positive",
+        "text": "take care of yourself"
+      },
+      {
+        "intent": "positive",
+        "text": "be careful"
+      },
+      {
+        "intent": "negative",
+        "text": "you have failed me for the last time"
+      },
+      {
+        "intent": "positive",
+        "text": "good luck"
+      },
+      {
+        "intent": "negative",
+        "text": "i'm not set"
+      },
+      {
+        "intent": "positive",
+        "text": "go now"
+      },
+      {
+        "intent": "positive",
+        "text": "it might be our only chance of stopping them"
+      },
+      {
+        "intent": "positive",
+        "text": "hand on"
+      },
+      {
+        "intent": "positive",
+        "text": "you'll have to make this shot"
+      },
+      {
+        "intent": "negative",
+        "text": "fall back"
+      },
+      {
+        "intent": "negative",
+        "text": "hurry up goldenrod or you're going to be a permanent resident"
+      },
+      {
+        "intent": "negative",
+        "text": "the bucket of bolts is never going to get us past that blockade"
+      },
+      {
+        "intent": "positive",
+        "text": "this baby's got a few surprises left in her"
+      },
+      {
+        "intent": "positive",
+        "text": "let's hope we don't have a burnout"
+      },
+      {
+        "intent": "negative",
+        "text": "someday you're going to be wrong and i hope i'm there to see it"
+      },
+      {
+        "intent": "positive",
+        "text": "good luck"
+      },
+      {
+        "intent": "positive",
+        "text": "don't worry"
+      },
+      {
+        "intent": "negative",
+        "text": "shut him up or shut him down"
+      },
+      {
+        "intent": "negative",
+        "text": "the possibility of successfully navigating an asteroid field is approximately three thousand seven hundred and twenty to one"
+      },
+      {
+        "intent": "positive",
+        "text": "never tell me the odds"
+      },
+      {
+        "intent": "positive",
+        "text": "that'll do nicely"
+      },
+      {
+        "intent": "negative",
+        "text": "i'm not going to change my mind about this"
+      },
+      {
+        "intent": "positive",
+        "text": "i'm sure it's perfectly safe for droids"
+      },
+      {
+        "intent": "negative",
+        "text": "you be more careful"
+      },
+      {
+        "intent": "negative",
+        "text": "would you please stop calling me that"
+      },
+      {
+        "intent": "negative",
+        "text": "of you make it so difficult sometimes"
+      },
+      {
+        "intent": "negative",
+        "text": "you could be a little nicer"
+      },
+      {
+        "intent": "positive",
+        "text": "sometimes you think i'm alright"
+      },
+      {
+        "intent": "positive",
+        "text": "i like the sound of that"
+      },
+      {
+        "intent": "negative",
+        "text": "stop that"
+      },
+      {
+        "intent": "negative",
+        "text": "he could destroy us"
+      },
+      {
+        "intent": "positive",
+        "text": "he would become a powerful ally"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

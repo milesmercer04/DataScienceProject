@@ -32,23 +32,35 @@ interpreter = Interpreter.load(model_path)
 def translationLayer(inputText):
     result = interpreter.parse(inputText)
     intent = result['intent']['name']
-    # entities = result['entities']    
-    return intent
+    confidence = result['intent']['confidence']
+    return intent, confidence
 
 for movie in movies:
     intents = []
-    intentBinary = []
+    confidences = []
+    entities = []
+    intentAdjusted = []
     for line in movie.dialogue:
-        intents.append(translationLayer(line))
-    for val in intents:
-        if val == 'positive':
-            intentBinary.append(1)
-        elif val == 'negative':
-            intentBinary.append(0)
+        intent, confidence = translationLayer(line)
+        intents.append(intent)
+        confidences.append(confidence)
+
+        lineEntities = []
+        lineProcessing = nlp(line)
+        for word in lineProcessing.ents:
+            lineEntities.append(word.text)
+        entities.append(lineEntities)
+        
+    for i in range(len(intents)):
+        if intents[i] == 'positive':
+            intentAdjusted.append(2 * (confidences[i] - 0.5))
+        elif intents[i] == 'negative':
+            intentAdjusted.append(-2 * (confidences[i] - 0.5))
         else:
             print('INVALID INTENT')
             quit()
-    movie.insert(3, 'sentiment', intentBinary)
+    movie.insert(3, 'sentiment', intentAdjusted)
+    movie.insert(4, 'entities', entities)
 
 df1.to_csv('scripts/EpisodeIV_Sentiments.csv', index=False)
 df2.to_csv('scripts/EpisodeV_Sentiments.csv', index=False)
