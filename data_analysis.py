@@ -5,6 +5,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 from sklearn.feature_selection import r_regression
 from sklearn.preprocessing import PolynomialFeatures
+from statistics import mean
 
 # %%
 # This cell reads the CSV's for the three movies into separate dataframes and makes an additional
@@ -115,7 +116,6 @@ for character in numLines:
     if (numLines[character] < 20):
         irrelevantCharacters.append(character)
 
-
 relevantCharacterAverages = characterAverages.drop(labels = irrelevantCharacters)
 print(relevantCharacterAverages)
 
@@ -130,7 +130,6 @@ plt.show()
 # %%
 # This cell splices the movies into dialogues (back-and-forths of length > 4)
 dialogues = []
-
 for movie in movies:
 	numRows = len(movie.index)
 	start = 0
@@ -148,5 +147,25 @@ for movie in movies:
 			dialogues.append(movie.iloc[start:stop,:])
 		
 		start = stop - 1 
+
+# %%
+# This cell calculates the average received sentiment for every character
+characterAverageReceivedDict = {}
+for character in characters:
+	receivedSentiments = []
+	for dialogue in dialogues:
+		if not np.any(dialogue['character'].values == character):
+			continue
+
+		for i in dialogue.index:
+			if dialogue.at[i,'character'] != character:
+				receivedSentiments.append(dialogue.at[i,'sentiment'])
+
+	if len(receivedSentiments) > 20:
+		characterAverageReceivedDict[character] = mean(receivedSentiments)
+
+characterAverageReceived = pd.Series(characterAverageReceivedDict)
+characterAverageReceived.sort_values(ascending=False, inplace=True)
+print(characterAverageReceived)
 
 # %%
