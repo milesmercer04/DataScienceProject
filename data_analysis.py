@@ -123,8 +123,8 @@ print(relevantCharacterAverages)
 # This cell plots a bar graph for the average sentiments of the characters
 relevantCharacterAverages.plot(kind='bar')
 plt.xlabel('Character', fontsize=12)
-plt.ylabel('Avg Adjusted Sentiment Value', fontsize=12)
-plt.title('Characters w/ 20+ Lines')
+plt.ylabel('Avg Expressed Sentiment Value', fontsize=12)
+plt.title('Sentiments Expressed')
 plt.show()
 
 # %%
@@ -167,5 +167,13 @@ for character in characters:
 characterAverageReceived = pd.Series(characterAverageReceivedDict)
 characterAverageReceived.sort_values(ascending=False, inplace=True)
 print(characterAverageReceived)
+
+# %%
+# This cell plots a bar graph for the average received sentiments of the characters
+characterAverageReceived.plot(kind='bar')
+plt.xlabel('Character', fontsize=12)
+plt.ylabel('Avg Received Sentiment Value', fontsize=12)
+plt.title('Sentiments Received in Dialogue')
+plt.show()
 
 # %%
