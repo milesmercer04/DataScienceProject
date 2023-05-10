@@ -315,7 +315,21 @@ void makeDataEntry(fstream &sentimentFile, string phrase, bool isPositiveSentime
     sentimentFile << "            }";
 }
 
-
+// **********************************************************************************************
+// Function: writeEntitySynonyms()
+// Description: This function prompts the user for synonyms for all character names in Star Wars,
+//              formatting the responses and putting them in the entity synonyms section of the
+//              sentiment file
+// Input Parameters: The sentiment file, a file with the list of character names, a string
+//                   with the filepath for the sentiment file, and a string with the filepath for
+//                   the character list
+// Returns: N/A
+// Pre: The sentiment file does not yet contain any entity synonym entries. The character list is
+//      every character in the scripts. Both files' relative paths are accurately reflected by
+//      their respective strings
+// Post: The entity synonyms section is written to the sentiment file and the old contents are
+//       pasted back after the section
+// **********************************************************************************************
 void writeEntitySynonyms(fstream &sentimentFile, ifstream &characterList, string filePath, string characterListPath) {
     vector<string> fileLines, characters;
     string currLine, synonym;
@@ -396,6 +410,16 @@ void writeEntitySynonyms(fstream &sentimentFile, ifstream &characterList, string
     characterList.close();
 }
 
+// ***********************************************************************************************
+// Function: findTriggerInPhrase()
+// Description: This function takes in a phrase and a trigger phrase, and attempts to find the
+//              trigger phrase in the phrase, returning the starting index of the trigger if found
+//              or -1 otherwise
+// Input Paramters: The larger phrase and the trigger phrase, both as string objects
+// Returns: An int for the starting index of the trigger phrase
+// Pre: Two phrases are passed into the function
+// Post: If the trigger is found, the starting index is returned. Otherwise, -1 is returned
+// ***********************************************************************************************
 int findTriggerInPhrase(string phrase, string trigger) {
     bool phrasesMatch = false;
     for (int i = 0; i < (phrase.length() - trigger.length() + 1); i++) {

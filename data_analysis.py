@@ -33,7 +33,6 @@ polyModel.fit(xPoly1, y1)
 # %%
 # This cell plots the regression for the first movie
 plt.scatter(X1, y1, color='black')
-# plt.plot(X, yPred, color='blue', linewidth=2)
 xDelta1 = np.linspace(X1.min(), X1.max(), 1000)
 yDelta1 = polyModel.predict(cubicPolyFeatures.fit_transform(xDelta1.reshape(-1, 1)))
 plt.plot(xDelta1, yDelta1, color='blue', linewidth=2)
@@ -83,7 +82,6 @@ polyModel.fit(xPoly3, y3)
 # %%
 #This cell plots the regression for the third movie
 plt.scatter(X3, y3, color='black')
-# plt.plot(X, yPred, color='blue', linewidth=2)
 xDelta3 = np.linspace(X3.min(), X3.max(), 1000)
 yDelta3 = polyModel.predict(cubicPolyFeatures.fit_transform(xDelta3.reshape(-1, 1)))
 plt.plot(xDelta3, yDelta3, color='blue', linewidth=2)
@@ -164,7 +162,7 @@ for character in characters:
 	if len(receivedSentiments) > 20:
 		characterAverageReceivedDict[character] = mean(receivedSentiments)
 
-characterAverageReceived = pd.Series(characterAverageReceivedDict)
+characterAverageReceived = pd.Series(characterAverageReceivedDict, name='sentiment')
 characterAverageReceived.sort_values(ascending=False, inplace=True)
 print(characterAverageReceived)
 
@@ -177,3 +175,43 @@ plt.title('Sentiments Received in Dialogue')
 plt.show()
 
 # %%
+# This cell joins the Series for expressed and received sentiments
+expressed = relevantCharacterAverages.to_frame()
+expressed.columns = ['expressed']
+
+received = characterAverageReceived.to_frame()
+received.columns = ['received']
+
+sentimentTable = pd.concat([expressed, received], axis=1, join='inner')
+sentimentTable.reset_index(inplace=True)
+sentimentTable = sentimentTable.rename(columns={'index':'character'})
+print(sentimentTable)
+
+# %%
+# This cell graphs the expressed vs. received sentiments
+plt.scatter(sentimentTable['expressed'], sentimentTable['received'])
+plt.title('Sentiments Expressed vs Sentiments Received')
+plt.xlabel('Avg Expressed Sentiment Value')
+plt.ylabel('Avg Received Sentiment Value')
+
+for character in sentimentTable['character'].values:
+	if character == 'LUKE':
+		plt.text(sentimentTable.expressed[sentimentTable.character==character]-0.025,
+	  		 	 sentimentTable.received[sentimentTable.character==character]-0.005, 'LUKE')
+	elif character == 'JABBA':
+		plt.text(sentimentTable.expressed[sentimentTable.character==character]-0.01,
+	  		 	 sentimentTable.received[sentimentTable.character==character]+0.01, 'JABBA')
+	elif character == 'VADER':
+		plt.text(sentimentTable.expressed[sentimentTable.character==character]-0.013,
+	  		 	 sentimentTable.received[sentimentTable.character==character]-0.016, 'VADER')
+	elif character == 'OWEN':
+		plt.text(sentimentTable.expressed[sentimentTable.character==character]-0.012,
+	  		 	 sentimentTable.received[sentimentTable.character==character]-0.016, 'OWEN')
+	elif character == 'WEDGE':
+		plt.text(sentimentTable.expressed[sentimentTable.character==character]-0.033,
+	  		 	 sentimentTable.received[sentimentTable.character==character], 'WEDGE')
+	else:
+		plt.text(sentimentTable.expressed[sentimentTable.character==character]+0.003,
+	  		 	 sentimentTable.received[sentimentTable.character==character]+0.003, character)
+
+plt.show()
