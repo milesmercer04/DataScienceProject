@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.linear_model import LinearRegression
-from sklearn.feature_selection import r_regression
 from sklearn.preprocessing import PolynomialFeatures
 from statistics import mean
 
