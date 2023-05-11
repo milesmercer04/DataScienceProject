@@ -11,9 +11,8 @@ movies = [df1, df2, df3]
 # Code taken from a friend's Hackathon project
 # The training data was adapted to my purposes but this code remains mostly unmodified
 # Source code available here:
-# https://github.com/Macbee280/CrimsonCode2023/blob/main/translationLayer.py
+# https://github.com/Macbee280/CrimsonCode2023
 from rasa_nlu.training_data import load_data
-from rasa_nlu.config import RasaNLUModelConfig
 from rasa_nlu.model import Trainer
 from rasa_nlu.model import Interpreter
 from rasa_nlu import config

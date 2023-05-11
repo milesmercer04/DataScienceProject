@@ -45,7 +45,6 @@ ep2 = ep2.merge(classifications, on='character')
 ep3 = ep3.merge(classifications, on='character')
 
 full_script = pd.concat([ep1, ep2, ep3])
-print(full_script)
 modified_script = balanceScript(full_script)
 
 # %%
